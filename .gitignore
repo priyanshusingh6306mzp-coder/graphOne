@@ -1,0 +1,40 @@
+# Secrets and Credentials
+.env
+.env.*
+!.env.example
+service_account.json
+*.pem
+*.key
+
+# Databases and Local State
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.backup.db
+data/pipeline.db
+data/pipeline.backup.db
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# OS and Editor Artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

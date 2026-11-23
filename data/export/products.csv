@@ -1,0 +1,1115 @@
+schemaVersion,recordType,source.name,source.url,content.startupName,content.pricingModel,collectedAt
+1.0,PRODUCT,matidor.com,https://matidor.com/pricing,Matidor,PAID,2026-11-22T01:58:06.244393Z
+1.0,PRODUCT,supertokens.com,https://supertokens.com/pricing,SuperTokens,FREEMIUM,2026-11-22T01:58:06.471527Z
+1.0,PRODUCT,capy.ai,https://capy.ai/pricing,Capy,FREEMIUM,2026-11-22T01:58:07.241073Z
+1.0,PRODUCT,taloflow.ai,https://www.taloflow.ai/pricing,Taloflow,FREEMIUM,2026-11-22T01:58:07.500213Z
+1.0,PRODUCT,termii.com,https://termii.com/pricing,Termii,PAID,2026-11-22T01:58:07.514223Z
+1.0,PRODUCT,joincenote.com,https://www.joincenote.com/pricing,Cenote,PAID,2026-11-22T01:58:07.679592Z
+1.0,PRODUCT,superpenguin.ai,https://superpenguin.ai/pricing,Carrot,FREEMIUM,2026-11-22T01:58:08.358409Z
+1.0,PRODUCT,oximy.com,https://oximy.com/pricing,Oximy,PAID,2026-11-22T01:58:10.557850Z
+1.0,PRODUCT,airbyte.com,https://airbyte.com/pricing,Airbyte,PAID,2026-11-22T01:58:11.853239Z
+1.0,PRODUCT,emergent.sh,https://emergent.sh/pricing,Emergent,FREEMIUM,2026-11-22T01:58:12.297747Z
+1.0,PRODUCT,surge.app,https://surge.app/pricing/,Surge,PAID,2026-11-22T01:58:12.376655Z
+1.0,PRODUCT,youart.ai,https://youart.ai/pricing,YouArt,FREEMIUM,2026-11-22T01:58:14.289540Z
+1.0,PRODUCT,firstbase.io,https://www.firstbase.io/pricing,Firstbase.io,PAID,2026-11-22T01:58:14.394348Z
+1.0,PRODUCT,hirosecure.com,https://hirosecure.com/pricing,Hiro,PAID,2026-11-22T01:58:14.413903Z
+1.0,PRODUCT,harnessrouter.ai,https://harnessrouter.ai/pricing,HarnessRouter,FREEMIUM,2026-11-22T01:58:15.493962Z
+1.0,PRODUCT,letter.dev,https://letter.dev/pricing,Letter,PAID,2026-11-22T01:58:16.156284Z
+1.0,PRODUCT,retool.com,https://retool.com/en-IN/pricing,Retool,FREEMIUM,2026-11-22T01:58:16.422387Z
+1.0,PRODUCT,readme.com,https://readme.com/pricing,ReadMe,FREEMIUM,2026-11-22T01:58:17.006974Z
+1.0,PRODUCT,electroneek.com,https://electroneek.com/pricing/,ElectroNeek,PAID,2026-11-22T01:58:17.164495Z
+1.0,PRODUCT,supabase.com,https://supabase.com/pricing,Supabase,FREEMIUM,2026-11-22T01:58:17.504733Z
+1.0,PRODUCT,imgix.com,https://www.imgix.com/pricing,Imgix,PAID,2026-11-22T01:58:17.848175Z
+1.0,PRODUCT,bloom.diy,https://bloom.diy/pricing,Bloom,FREEMIUM,2026-11-22T01:58:18.474710Z
+1.0,PRODUCT,skyvern.com,https://www.skyvern.com/pricing,Skyvern,PAID,2026-11-22T01:58:18.498600Z
+1.0,PRODUCT,cococart.co,https://www.cococart.co/pricing,Cococart,FREEMIUM,2026-11-22T01:58:18.533749Z
+1.0,PRODUCT,stagewise.io,https://www.stagewise.io/pricing,stagewise,FREEMIUM,2026-11-22T01:58:19.337537Z
+1.0,PRODUCT,seam.co,https://www.seam.co/pricing,Seam,FREEMIUM,2026-11-22T01:58:19.794042Z
+1.0,PRODUCT,bird.com,https://bird.com/pricing/email,Bird,FREEMIUM,2026-11-22T01:58:20.085802Z
+1.0,PRODUCT,userlens.io,https://userlens.io/pricing,Userlens,FREEMIUM,2026-11-22T01:58:20.199441Z
+1.0,PRODUCT,ashbyhq.com,https://www.ashbyhq.com/pricing,Ashby,PAID,2026-11-22T01:58:20.669462Z
+1.0,PRODUCT,1stcollab.com,https://www.1stcollab.com/pricing,1stCollab,FREEMIUM,2026-11-22T01:58:21.263009Z
+1.0,PRODUCT,thehog.ai,https://thehog.ai/pricing,The Hog,PAID,2026-11-22T01:58:22.122394Z
+1.0,PRODUCT,kernel.sh,https://www.kernel.sh/pricing,KERNEL,FREEMIUM,2026-11-22T01:58:22.219636Z
+1.0,PRODUCT,polytomic.com,https://www.polytomic.com/pricing,Polytomic,PAID,2026-11-22T01:58:22.750977Z
+1.0,PRODUCT,jovian.com,https://jovian.com/pricing,Jovian,FREEMIUM,2026-11-22T01:58:23.433534Z
+1.0,PRODUCT,martini.film,https://www.martini.film/pricing,Martini,FREEMIUM,2026-11-22T01:58:25.053593Z
+1.0,PRODUCT,byteport.com,https://byteport.com/pricing,Byteport,PAID,2026-11-22T01:58:27.075151Z
+1.0,PRODUCT,primitive.dev,https://www.primitive.dev/pricing.md,primitive,FREEMIUM,2026-11-22T01:58:29.343873Z
+1.0,PRODUCT,paywithlocus.com,https://paywithlocus.com/pricing,Locus,FREEMIUM,2026-11-22T01:58:30.449409Z
+1.0,PRODUCT,getquetzal.com,https://getquetzal.com/en/pricing,Quetzal,FREEMIUM,2026-11-22T01:58:31.354867Z
+1.0,PRODUCT,cosine.sh,https://cosine.sh/pricing,Cosine,PAID,2026-11-22T01:58:32.123852Z
+1.0,PRODUCT,humaninterest.com,https://humaninterest.com/pricing/,Human Interest,FREEMIUM,2026-11-22T01:58:33.970785Z
+1.0,PRODUCT,voyager.so,https://voyager.so/pricing,Voyager,FREEMIUM,2026-11-22T01:58:34.478897Z
+1.0,PRODUCT,mastra.ai,https://mastra.ai/pricing,Mastra,FREEMIUM,2026-11-22T01:58:34.528774Z
+1.0,PRODUCT,hudson-labs.com,https://www.hudson-labs.com/pricing,Hudson Labs (formerly Bedrock AI),PAID,2026-11-22T01:58:34.774994Z
+1.0,PRODUCT,thundercompute.com,https://www.thundercompute.com/pricing,Thunder Compute,FREEMIUM,2026-11-22T01:58:34.846531Z
+1.0,PRODUCT,juxta.com,https://www.juxta.com/pricing,Juxta,PAID,2026-11-22T01:58:35.000042Z
+1.0,PRODUCT,teaflask.com,https://teaflask.com/pricing/,Teaflask,FREEMIUM,2026-11-22T01:58:36.110022Z
+1.0,PRODUCT,gogenuity.com,https://gogenuity.com/pricing/,Genuity,FREEMIUM,2026-11-22T01:58:36.185842Z
+1.0,PRODUCT,oneschema.co,https://www.oneschema.co/pricing,OneSchema,PAID,2026-11-22T01:58:36.408344Z
+1.0,PRODUCT,gominimal.ai,https://gominimal.ai/pricing,Minimal AI,PAID,2026-11-22T01:58:36.798720Z
+1.0,PRODUCT,munito.ai,https://munito.ai/pricing,Munito AI,FREEMIUM,2026-11-22T01:58:37.409565Z
+1.0,PRODUCT,gbrain.io,https://gbrain.io/pricing,GBrain,PAID,2026-11-22T01:58:37.518902Z
+1.0,PRODUCT,adentris.com,https://www.adentris.com/pricing,Adentris,ENTERPRISE,2026-11-22T01:58:37.839203Z
+1.0,PRODUCT,cuckoo.so,https://www.cuckoo.so/pricing,Cuckoo,PAID,2026-11-22T01:58:39.266616Z
+1.0,PRODUCT,pump.co,https://www.pump.co/pricing,Pump.co,FREEMIUM,2026-11-22T01:58:39.407521Z
+1.0,PRODUCT,britebenefits.com,https://www.britebenefits.com/pricing,Brite,FREEMIUM,2026-11-22T01:58:39.465993Z
+1.0,PRODUCT,sim.ai,https://www.sim.ai/pricing,Sim,FREEMIUM,2026-11-22T01:58:39.888586Z
+1.0,PRODUCT,polleverywhere.com,https://www.polleverywhere.com/plans,Poll Everywhere,FREEMIUM,2026-11-22T01:58:40.341603Z
+1.0,PRODUCT,expand.ai,https://expand.ai/pricing,expand.ai,FREEMIUM,2026-11-22T01:58:40.870465Z
+1.0,PRODUCT,usebluehill.com,https://www.usebluehill.com/pricing,BlueHill Payments,PAID,2026-11-22T01:58:41.882048Z
+1.0,PRODUCT,buildwithstar.com,https://buildwithstar.com/pricing,Star,FREEMIUM,2026-11-22T01:58:41.926083Z
+1.0,PRODUCT,awen.ai,https://www.awen.ai/pricing,awen,FREEMIUM,2026-11-22T01:58:42.111065Z
+1.0,PRODUCT,opusense.com,https://www.opusense.com/pricing,Opusense AI,PAID,2026-11-22T01:58:42.123927Z
+1.0,PRODUCT,codewisp.ai,https://codewisp.ai/pricing,CodeWisp,FREEMIUM,2026-11-22T01:58:42.487831Z
+1.0,PRODUCT,mireye.com,https://www.mireye.com/pricing,Mireye,FREEMIUM,2026-11-22T01:58:42.886544Z
+1.0,PRODUCT,gimbooks.com,https://www.gimbooks.com/pricing,GimBooks,PAID,2026-11-22T01:58:43.400020Z
+1.0,PRODUCT,swif.ai,https://www.swif.ai/pricing,Swif.ai,FREEMIUM,2026-11-22T01:58:43.500397Z
+1.0,PRODUCT,groundmail.dev,https://groundmail.dev/pricing/,Groundmail,FREEMIUM,2026-11-22T01:58:43.525755Z
+1.0,PRODUCT,spline.design,https://spline.design/pricing,Spline,FREEMIUM,2026-11-22T01:58:43.553727Z
+1.0,PRODUCT,mesh.ai,https://www.mesh.ai/pricing,Mesh,PAID,2026-11-22T01:58:43.898648Z
+1.0,PRODUCT,ariglad.com,https://ariglad.com/pricing,Ariglad,PAID,2026-11-22T01:58:43.945283Z
+1.0,PRODUCT,cardboard.ai,https://www.cardboard.ai/pricing,Cardboard,FREEMIUM,2026-11-22T01:58:44.311462Z
+1.0,PRODUCT,smolmachines.com,https://smolmachines.com/pricing,smol machines,FREEMIUM,2026-11-22T01:58:44.787528Z
+1.0,PRODUCT,marblism.com,https://www.marblism.com/pricing,Marblism,FREEMIUM,2026-11-22T01:58:46.360573Z
+1.0,PRODUCT,agenticfabriq.com,https://www.agenticfabriq.com/pricing,Agentic Fabriq,FREEMIUM,2026-11-22T01:58:46.455508Z
+1.0,PRODUCT,pinnacle.sh,https://pinnacle.sh/pricing,Pinnacle,PAID,2026-11-22T01:58:47.182938Z
+1.0,PRODUCT,termius.com,https://termius.com/pricing,Termius,PAID,2026-11-22T01:58:47.281270Z
+1.0,PRODUCT,getalai.com,https://getalai.com/pricing,Alai,FREEMIUM,2026-11-22T01:58:47.909706Z
+1.0,PRODUCT,typewise.app,https://www.typewise.app/pricing,Typewise,PAID,2026-11-22T01:58:48.071915Z
+1.0,PRODUCT,getontop.com,https://www.getontop.com/pricing,Ontop,PAID,2026-11-22T01:58:48.229232Z
+1.0,PRODUCT,getlago.com,https://getlago.com/pricing,Lago,FREEMIUM,2026-11-22T01:58:48.783750Z
+1.0,PRODUCT,context.dev,https://www.context.dev/pricing,Context.dev,FREEMIUM,2026-11-22T01:58:49.174560Z
+1.0,PRODUCT,lingo.dev,https://lingo.dev/en/pricing,Lingo.dev,FREEMIUM,2026-11-22T01:58:49.255381Z
+1.0,PRODUCT,getpanora.com,https://getpanora.com/pricing/,Panora,PAID,2026-11-22T01:58:49.283518Z
+1.0,PRODUCT,querypie.com,https://www.querypie.com/en/plans/acp,QueryPie AI,PAID,2026-11-22T01:58:49.414312Z
+1.0,PRODUCT,epsilon3.io,https://www.epsilon3.io/pricing,Epsilon3,PAID,2026-11-22T01:58:49.588202Z
+1.0,PRODUCT,glideapps.com,https://www.glideapps.com/pricing,Glide,FREEMIUM,2026-11-22T01:58:50.043663Z
+1.0,PRODUCT,summerengine.com,https://www.summerengine.com/pricing,Summer Engine,PAID,2026-11-22T01:58:50.320848Z
+1.0,PRODUCT,distr.sh,https://distr.sh/pricing/,Glasskube,PAID,2026-11-22T01:58:50.593171Z
+1.0,PRODUCT,sorce.jobs,https://www.sorce.jobs/pricing,Sorce,FREEMIUM,2026-11-22T01:58:50.827001Z
+1.0,PRODUCT,happl.com,https://happl.com/pricing,Happl,PAID,2026-11-22T01:58:51.484476Z
+1.0,PRODUCT,ensoanalytics.com,https://ensoanalytics.com/pricing,Enso,FREEMIUM,2026-11-22T01:58:52.297526Z
+1.0,PRODUCT,sparkles.dev,https://sparkles.dev/pricing,Sparkles,PAID,2026-11-22T01:58:52.959424Z
+1.0,PRODUCT,sameday.ai,https://sameday.ai/pricing,Sameday,PAID,2026-11-22T01:58:53.025637Z
+1.0,PRODUCT,zuddl.com,https://www.zuddl.com/pricing,Zuddl,PAID,2026-11-22T01:58:53.357285Z
+1.0,PRODUCT,operator.io,https://operator.io/pricing,Operator.io,PAID,2026-11-22T01:58:53.394113Z
+1.0,PRODUCT,spacesheep.dev,https://spacesheep.dev/plans,Spacesheep,FREEMIUM,2026-11-22T01:58:53.641498Z
+1.0,PRODUCT,mixpanel.com,https://mixpanel.com/pricing/,Mixpanel,FREEMIUM,2026-11-22T01:58:54.003835Z
+1.0,PRODUCT,tenyks.ai,https://www.tenyks.ai/pricing,Tenyks,PAID,2026-11-22T01:58:54.187248Z
+1.0,PRODUCT,prized.dev,https://prized.dev/pricing,Prized,PAID,2026-11-22T01:58:54.697630Z
+1.0,PRODUCT,trymito.io,https://www.trymito.io/plans,Mito,FREEMIUM,2026-11-22T01:58:54.897123Z
+1.0,PRODUCT,confetti.build,https://confetti.build/pricing,Confetti,FREEMIUM,2026-11-22T01:58:54.941625Z
+1.0,PRODUCT,retrofix.ai,https://www.retrofix.ai/pricing,RetroFix,PAID,2026-11-22T01:58:55.391199Z
+1.0,PRODUCT,gojinko.com,https://gojinko.com/pricing/,Jinko,PAID,2026-11-22T01:58:55.539476Z
+1.0,PRODUCT,awesomic.com,https://www.awesomic.com/pricing,Awesomic,PAID,2026-11-22T01:58:55.860220Z
+1.0,PRODUCT,crustdata.com,https://crustdata.com/pricing,Crustdata,ENTERPRISE,2026-11-22T01:58:56.118719Z
+1.0,PRODUCT,lattice.com,https://lattice.com/pricing,Lattice,PAID,2026-11-22T01:58:56.576799Z
+1.0,PRODUCT,sync.so,https://sync.so/pricing,sync,PAID,2026-11-22T01:58:56.732565Z
+1.0,PRODUCT,mirrors.dev,https://mirrors.dev/pricing,Mirrors,FREEMIUM,2026-11-22T01:58:56.748062Z
+1.0,PRODUCT,provision.com,https://provision.com/pricing,Provision,PAID,2026-11-22T01:58:57.676646Z
+1.0,PRODUCT,nanonets.com,https://nanonets.com/pricing,NanoNets,PAID,2026-11-22T01:58:57.833224Z
+1.0,PRODUCT,getsphere.com,https://www.getsphere.com/pricing,Sphere,PAID,2026-11-22T01:58:58.401196Z
+1.0,PRODUCT,ekho.com,https://www.ekho.com/pricing,Ekho,FREEMIUM,2026-11-22T01:58:58.490969Z
+1.0,PRODUCT,ignitionbenefits.com,https://www.ignitionbenefits.com/blog/justworks-pricing,Ignition Benefits,FREEMIUM,2026-11-22T01:58:58.850004Z
+1.0,PRODUCT,firezone.dev,https://www.firezone.dev/pricing,Firezone,FREEMIUM,2026-11-22T01:58:58.951528Z
+1.0,PRODUCT,toplinepro.com,https://www.toplinepro.com/pricing,Topline Pro,PAID,2026-11-22T01:58:59.809649Z
+1.0,PRODUCT,helix-db.com,https://www.helix-db.com/foundry/pricing.md,HelixDB,FREEMIUM,2026-11-22T01:58:59.956937Z
+1.0,PRODUCT,litellm.ai,https://www.litellm.ai/pricing,LiteLLM,FREEMIUM,2026-11-22T01:59:00.059589Z
+1.0,PRODUCT,metal.so,https://www.metal.so/pricing,Metal,FREEMIUM,2026-11-22T01:59:00.148399Z
+1.0,PRODUCT,replit.com,https://replit.com/pricing,Replit,PAID,2026-11-22T01:59:00.323798Z
+1.0,PRODUCT,pulley.com,https://pulley.com/pricing,Pulley,PAID,2026-11-22T01:59:00.352124Z
+1.0,PRODUCT,trackingplan.com,https://www.trackingplan.com/pricing,Trackingplan,PAID,2026-11-22T01:59:00.519881Z
+1.0,PRODUCT,cloudglue.dev,https://cloudglue.dev/pricing,Cloudglue,FREEMIUM,2026-11-22T01:59:00.999462Z
+1.0,PRODUCT,trycarsignal.com,https://trycarsignal.com/pricing,CarSignal,PAID,2026-11-22T01:59:01.009825Z
+1.0,PRODUCT,faradaycompute.com,https://faradaycompute.com/use-cases/pricing-optimization,Faraday,PAID,2026-11-22T01:59:01.615713Z
+1.0,PRODUCT,topo.io,https://www.topo.io/pricing,Topo,PAID,2026-11-22T01:59:01.955874Z
+1.0,PRODUCT,sunsama.com,https://www.sunsama.com/pricing,Sunsama,FREEMIUM,2026-11-22T01:59:02.488329Z
+1.0,PRODUCT,sapling.ai,https://sapling.ai/pricing,Sapling.ai,FREEMIUM,2026-11-22T01:59:02.504636Z
+1.0,PRODUCT,communityphone.org,https://www.communityphone.org/plans,Community Phone,PAID,2026-11-22T01:59:02.706903Z
+1.0,PRODUCT,palettehq.com,https://www.palettehq.com/plans,PaletteHQ,ENTERPRISE,2026-11-22T01:59:03.114788Z
+1.0,PRODUCT,getofficely.com,https://getofficely.com/pricing,Officely,FREEMIUM,2026-11-22T01:59:03.341286Z
+1.0,PRODUCT,open.cx,https://www.open.cx/pricing,Open,PAID,2026-11-22T01:59:03.477273Z
+1.0,PRODUCT,uxduck.com,https://uxduck.com/pricing,UXDuck,FREE,2026-11-22T01:59:03.550506Z
+1.0,PRODUCT,boostly.com,https://www.boostly.com/pricing,Boostly,PAID,2026-11-22T01:59:03.784697Z
+1.0,PRODUCT,pangolin.net,https://pangolin.net/pricing,Pangolin,FREEMIUM,2026-11-22T01:59:03.819471Z
+1.0,PRODUCT,driver.ai,https://www.driver.ai/pricing,Driver,FREEMIUM,2026-11-22T01:59:04.079992Z
+1.0,PRODUCT,nex.ai,https://nex.ai/pricing,Nex,PAID,2026-11-22T01:59:04.131801Z
+1.0,PRODUCT,demandsphere.com,https://www.demandsphere.com/pricing/,DemandSphere,PAID,2026-11-22T01:59:04.379282Z
+1.0,PRODUCT,rutter.com,https://www.rutter.com/pricing,Rutter,FREEMIUM,2026-11-22T01:59:05.140300Z
+1.0,PRODUCT,propexo.com,https://propexo.com/pricing/,Propexo,ENTERPRISE,2026-11-22T01:59:05.284495Z
+1.0,PRODUCT,contraforce.com,https://www.contraforce.com/pricing,ContraForce,PAID,2026-11-22T01:59:05.293505Z
+1.0,PRODUCT,parley.so,https://www.parley.so/pricing,Parley,PAID,2026-11-22T01:59:06.018333Z
+1.0,PRODUCT,zeplin.io,https://zeplin.io/pricing/,Zeplin,FREEMIUM,2026-11-22T01:59:06.061178Z
+1.0,PRODUCT,greatquestion.com,https://www.greatquestion.com/pricing,Great Question,FREEMIUM,2026-11-22T01:59:06.329682Z
+1.0,PRODUCT,castle.io,https://castle.io/pricing,Castle,FREEMIUM,2026-11-22T01:59:06.781178Z
+1.0,PRODUCT,runlatent.ai,https://runlatent.ai/pricing,Latent,FREEMIUM,2026-11-22T01:59:07.066128Z
+1.0,PRODUCT,decisional.com,https://www.decisional.com/pricing,Decisional AI,FREEMIUM,2026-11-22T01:59:07.138784Z
+1.0,PRODUCT,relaw.ai,https://www.relaw.ai/pricing,Relaw,PAID,2026-11-22T01:59:07.265484Z
+1.0,PRODUCT,supernova.io,https://www.supernova.io/pricing,Supernova,PAID,2026-11-22T01:59:07.580202Z
+1.0,PRODUCT,madethis.com,https://www.madethis.com/pricing,MadeThis,PAID,2026-11-22T01:59:08.901676Z
+1.0,PRODUCT,signadot.com,https://www.signadot.com/pricing/,Signadot,FREEMIUM,2026-11-22T01:59:09.539510Z
+1.0,PRODUCT,galevisa.com,https://galevisa.com/pricing,Gale,FREEMIUM,2026-11-22T01:59:09.896781Z
+1.0,PRODUCT,usealmanac.com,https://usealmanac.com/pricing,Almanac,PAID,2026-11-22T01:59:09.905223Z
+1.0,PRODUCT,video.golpoai.com,https://video.golpoai.com/pricing,Golpo,PAID,2026-11-22T01:59:10.007663Z
+1.0,PRODUCT,worklytics.co,https://www.worklytics.co/pricing,Worklytics,FREEMIUM,2026-11-22T01:59:10.124641Z
+1.0,PRODUCT,usenaive.ai,https://usenaive.ai/pricing,Naïve,FREEMIUM,2026-11-22T01:59:10.253088Z
+1.0,PRODUCT,zeorouteplanner.com,https://zeorouteplanner.com/pricing/,Zeo Route Planner,PAID,2026-11-22T01:59:11.628915Z
+1.0,PRODUCT,deepgram.com,https://deepgram.com/pricing,Deepgram,PAID,2026-11-22T01:59:11.741612Z
+1.0,PRODUCT,iotflows.com,https://www.iotflows.com/products/senseai/pricing,IoTFlows,PAID,2026-11-22T01:59:12.248913Z
+1.0,PRODUCT,clickpad.com,https://clickpad.com/pricing,Clickpad,PAID,2026-11-22T01:59:12.497850Z
+1.0,PRODUCT,haystack.sh,https://haystack.sh/pricing,Haystack,PAID,2026-11-22T01:59:12.679533Z
+1.0,PRODUCT,cartpanda.com,https://cartpanda.com/pricing,Cartpanda,FREEMIUM,2026-11-22T01:59:12.832283Z
+1.0,PRODUCT,tasklet.ai,https://tasklet.ai/pricing,Tasklet,FREEMIUM,2026-11-22T01:59:12.879985Z
+1.0,PRODUCT,codeant.ai,https://codeant.ai/pricing,CodeAnt AI,FREEMIUM,2026-11-22T01:59:13.167276Z
+1.0,PRODUCT,usestable.com,https://www.usestable.com/pricing,Stable,PAID,2026-11-22T01:59:14.094746Z
+1.0,PRODUCT,quotain.com,https://www.quotain.com/pricing,Quotain,PAID,2026-11-22T01:59:14.119215Z
+1.0,PRODUCT,embedder.com,https://embedder.com/pricing,Embedder,FREEMIUM,2026-11-22T01:59:14.822155Z
+1.0,PRODUCT,apollographql.com,https://www.apollographql.com/pricing,Apollo,FREEMIUM,2026-11-22T01:59:15.689190Z
+1.0,PRODUCT,getconvoy.io,https://www.getconvoy.io/pricing,Convoy,FREEMIUM,2026-11-22T01:59:15.702019Z
+1.0,PRODUCT,lucenthq.com,https://lucenthq.com/pricing,Lucent,PAID,2026-11-22T01:59:16.347754Z
+1.0,PRODUCT,daily.co,https://www.daily.co/pricing/video-sdk/,Daily,FREEMIUM,2026-11-22T01:59:16.454325Z
+1.0,PRODUCT,happenstance.ai,https://happenstance.ai/pricing,Happenstance,FREEMIUM,2026-11-22T01:59:16.788196Z
+1.0,PRODUCT,reacherapp.com,https://www.reacherapp.com/pricing,Reacher,PAID,2026-11-22T01:59:17.484865Z
+1.0,PRODUCT,extend.ai,https://www.extend.ai/pricing,Extend,PAID,2026-11-22T01:59:18.239542Z
+1.0,PRODUCT,roark.ai,https://roark.ai/pricing,Roark,FREEMIUM,2026-11-22T01:59:18.347333Z
+1.0,PRODUCT,navier.ai,https://navier.ai/pricing,Navier AI,PAID,2026-11-22T01:59:18.352793Z
+1.0,PRODUCT,rhizomeai.com,https://rhizomeai.com/pricing,Rhizome AI,FREEMIUM,2026-11-22T01:59:18.429036Z
+1.0,PRODUCT,cheers.tech,https://www.cheers.tech/plans,Cheers,PAID,2026-11-22T01:59:18.919988Z
+1.0,PRODUCT,upcall.com,https://www.upcall.com/pricing,Upcall,PAID,2026-11-22T01:59:19.353521Z
+1.0,PRODUCT,spinach.ai,https://www.spinach.ai/pricing,Spinach AI,PAID,2026-11-22T01:59:19.534021Z
+1.0,PRODUCT,sazabi.com,https://www.sazabi.com/pricing,Sazabi,FREEMIUM,2026-11-22T01:59:19.743570Z
+1.0,PRODUCT,slickerhq.com,https://www.slickerhq.com/pricing,Slicker,FREEMIUM,2026-11-22T01:59:19.822239Z
+1.0,PRODUCT,raycast.com,https://www.raycast.com/pricing,Raycast,FREEMIUM,2026-11-22T01:59:19.879089Z
+1.0,PRODUCT,getcargo.ai,https://www.getcargo.ai/pricing,Cargo,FREEMIUM,2026-11-22T01:59:19.998335Z
+1.0,PRODUCT,tryfinch.com,https://www.tryfinch.com/pricing,Finch,PAID,2026-11-22T01:59:20.449889Z
+1.0,PRODUCT,ollama.com,https://ollama.com/pricing,Ollama,FREEMIUM,2026-11-22T01:59:21.024087Z
+1.0,PRODUCT,party.build,https://party.build/pricing,Party,FREEMIUM,2026-11-22T01:59:21.383380Z
+1.0,PRODUCT,glep.com,https://glep.com/pricing,Glep,FREE,2026-11-22T01:59:21.512691Z
+1.0,PRODUCT,taskade.com,https://www.taskade.com/pricing,Taskade,FREEMIUM,2026-11-22T01:59:21.691540Z
+1.0,PRODUCT,promptloop.com,https://www.promptloop.com/pricing,PromptLoop,PAID,2026-11-22T01:59:22.118589Z
+1.0,PRODUCT,zaymo.com,https://www.zaymo.com/pricing,Zaymo,PAID,2026-11-22T01:59:22.746662Z
+1.0,PRODUCT,tryopentag.com,https://www.tryopentag.com/pricing,OpenTag,FREEMIUM,2026-11-22T01:59:22.871613Z
+1.0,PRODUCT,pocketsuite.io,https://pocketsuite.io/dog-trainer-pricing/,PocketSuite,PAID,2026-11-22T01:59:22.926349Z
+1.0,PRODUCT,thesleepreset.com,https://www.thesleepreset.com/sleep-reset-pricing,Sleep Reset,PAID,2026-11-22T01:59:23.199603Z
+1.0,PRODUCT,graphify.com,https://graphify.com/pricing,Graphify,FREEMIUM,2026-11-22T01:59:24.513790Z
+1.0,PRODUCT,autarc.energy,https://www.autarc.energy/global/pricing,autarc,FREEMIUM,2026-11-22T01:59:24.721524Z
+1.0,PRODUCT,withsherpa.ai,https://www.withsherpa.ai/pricing,Sherpa,FREEMIUM,2026-11-22T01:59:24.814896Z
+1.0,PRODUCT,onecli.sh,https://onecli.sh/pricing,OneCLI,FREEMIUM,2026-11-22T01:59:24.875723Z
+1.0,PRODUCT,inaccord.com,https://inaccord.com/pricing,Accord,PAID,2026-11-22T01:59:26.452332Z
+1.0,PRODUCT,candidately.com,https://www.candidately.com/pricing,Candidately,PAID,2026-11-22T01:59:26.847898Z
+1.0,PRODUCT,simplecirca.com,https://www.simplecirca.com/pricing,Circa,PAID,2026-11-22T01:59:27.369494Z
+1.0,PRODUCT,notte.cc,https://www.notte.cc/pricing,Notte,FREEMIUM,2026-11-22T01:59:27.396672Z
+1.0,PRODUCT,aitechpacks.com,https://aitechpacks.com/pricing,AI Tech Packs,PAID,2026-11-22T01:59:27.455270Z
+1.0,PRODUCT,dagger.io,https://dagger.io/pricing/,Dagger,PAID,2026-11-22T01:59:27.923677Z
+1.0,PRODUCT,conduit.ai,https://www.conduit.ai/pricing,Conduit,PAID,2026-11-22T01:59:27.996828Z
+1.0,PRODUCT,blixo.com,https://blixo.com/pricing,Blixo,PAID,2026-11-22T01:59:28.281622Z
+1.0,PRODUCT,coperniq.io,https://coperniq.io/pricing,Coperniq,PAID,2026-11-22T01:59:28.413408Z
+1.0,PRODUCT,noloco.io,https://noloco.io/pricing,Noloco,FREEMIUM,2026-11-22T01:59:28.498123Z
+1.0,PRODUCT,asterlab.ai,https://www.asterlab.ai/pricing,Aster,FREEMIUM,2026-11-22T01:59:29.000365Z
+1.0,PRODUCT,magicbell.com,https://www.magicbell.com/pricing,MagicBell,FREEMIUM,2026-11-22T01:59:29.173924Z
+1.0,PRODUCT,nullstone.io,https://nullstone.io/pricing,Nullstone,PAID,2026-11-22T01:59:29.470157Z
+1.0,PRODUCT,dojah.io,https://dojah.io/pricing,Dojah,PAID,2026-11-22T01:59:30.386872Z
+1.0,PRODUCT,salarybox.in,https://salarybox.in/pricing/,SalaryBox,PAID,2026-11-22T01:59:30.491990Z
+1.0,PRODUCT,superkalam.com,https://superkalam.com/pricing,SuperKalam,PAID,2026-11-22T01:59:31.152384Z
+1.0,PRODUCT,olark.com,https://www.olark.com/pricing/,Olark,PAID,2026-11-22T01:59:32.867749Z
+1.0,PRODUCT,runcopycat.com,https://www.runcopycat.com/pricing,CopyCat AI,PAID,2026-11-22T01:59:33.576624Z
+1.0,PRODUCT,useparagon.com,https://www.useparagon.com/pricing,Paragon,ENTERPRISE,2026-11-22T01:59:33.954803Z
+1.0,PRODUCT,buildbuddy.io,https://www.buildbuddy.io/pricing/,BuildBuddy,PAID,2026-11-22T01:59:34.056515Z
+1.0,PRODUCT,jupiter.co,https://www.jupiter.co/pricing,Jupiter,ENTERPRISE,2026-11-22T01:59:34.186835Z
+1.0,PRODUCT,metorial.com,https://metorial.com/pricing,Metorial,FREEMIUM,2026-11-22T01:59:34.282526Z
+1.0,PRODUCT,streamable.run,https://streamable.run/pricing,Streamable,PAID,2026-11-22T01:59:34.426049Z
+1.0,PRODUCT,refine.dev,https://refine.dev/pricing/,refine,PAID,2026-11-22T01:59:34.697335Z
+1.0,PRODUCT,tryandai.com,https://www.tryandai.com/pricing,&AI,PAID,2026-11-22T01:59:34.861228Z
+1.0,PRODUCT,usewaypoint.com,https://www.usewaypoint.com/pricing,Waypoint,FREEMIUM,2026-11-22T01:59:35.573599Z
+1.0,PRODUCT,taan.ai,https://taan.ai/pricing,Taan.ai,PAID,2026-11-22T01:59:35.705760Z
+1.0,PRODUCT,acely.com,https://acely.com/pricing,Acely,FREEMIUM,2026-11-22T01:59:35.931739Z
+1.0,PRODUCT,orangeslice.ai,https://www.orangeslice.ai/pricing,Orange Slice,FREEMIUM,2026-11-22T01:59:36.077365Z
+1.0,PRODUCT,vortexify.ai,https://www.vortexify.ai/pricing,Vortexify,FREEMIUM,2026-11-22T01:59:36.326123Z
+1.0,PRODUCT,assemblyai.com,https://www.assemblyai.com/pricing,AssemblyAI,FREEMIUM,2026-11-22T01:59:36.386383Z
+1.0,PRODUCT,everyapp.com,https://everyapp.com/pricing,EveryApp,FREEMIUM,2026-11-22T01:59:36.479254Z
+1.0,PRODUCT,cua.ai,https://cua.ai/pricing,Cua,FREEMIUM,2026-11-22T01:59:36.706034Z
+1.0,PRODUCT,stackerhq.com,https://www.stackerhq.com/pricing,Stacker,PAID,2026-11-22T01:59:37.267612Z
+1.0,PRODUCT,presti.ai,https://www.presti.ai/pricing,Presti AI,FREEMIUM,2026-11-22T01:59:38.137424Z
+1.0,PRODUCT,rulebricks.com,https://rulebricks.com/pricing,Rulebricks,FREEMIUM,2026-11-22T01:59:38.520107Z
+1.0,PRODUCT,jitter.video,https://jitter.video/pricing/,Jitter,FREEMIUM,2026-11-22T01:59:38.819770Z
+1.0,PRODUCT,getnao.io,https://getnao.io/pricing/,nao,PAID,2026-11-22T01:59:38.833515Z
+1.0,PRODUCT,grep.ai,https://grep.ai/pricing,Grep AI,FREEMIUM,2026-11-22T01:59:38.951363Z
+1.0,PRODUCT,orgo.ai,https://www.orgo.ai/pricing.md,Orgo,FREEMIUM,2026-11-22T01:59:39.334876Z
+1.0,PRODUCT,blaze.today,https://blaze.today/plans/,Text Blaze,FREEMIUM,2026-11-22T01:59:39.466104Z
+1.0,PRODUCT,mintlify.com,https://www.mintlify.com/pricing,Mintlify,FREEMIUM,2026-11-22T01:59:39.665158Z
+1.0,PRODUCT,lemonlime.com,https://lemonlime.com/pricing,LemonLime,PAID,2026-11-22T01:59:39.731809Z
+1.0,PRODUCT,caveman.so,https://caveman.so/pricing,Caveman,FREEMIUM,2026-11-22T01:59:41.280102Z
+1.0,PRODUCT,propelauth.com,https://www.propelauth.com/pricing,PropelAuth,FREEMIUM,2026-11-22T01:59:41.581143Z
+1.0,PRODUCT,mattermost.com,https://mattermost.com/plans/,Mattermost,ENTERPRISE,2026-11-22T01:59:41.666698Z
+1.0,PRODUCT,rejoyhealth.com,https://www.rejoyhealth.com/pricing,Rejoy Health,FREEMIUM,2026-11-22T01:59:42.048145Z
+1.0,PRODUCT,jinba.io,https://jinba.io/pricing,Jinba,FREEMIUM,2026-11-22T01:59:43.930460Z
+1.0,PRODUCT,geostar.ai,https://www.geostar.ai/pricing,Geostar,PAID,2026-11-22T01:59:43.997670Z
+1.0,PRODUCT,assembly.com,https://assembly.com/pricing,Assembly,FREEMIUM,2026-11-22T01:59:44.124189Z
+1.0,PRODUCT,infracost.io,https://www.infracost.io/pricing,Infracost,PAID,2026-11-22T01:59:44.550655Z
+1.0,PRODUCT,nyckel.com,https://www.nyckel.com/pricing/,Nyckel,FREEMIUM,2026-11-22T01:59:45.029505Z
+1.0,PRODUCT,drdroid.io,https://drdroid.io/pricing,DrDroid,PAID,2026-11-22T01:59:45.166114Z
+1.0,PRODUCT,magichour.ai,https://magichour.ai/pricing,Magic Hour,FREEMIUM,2026-11-22T01:59:45.291659Z
+1.0,PRODUCT,gigwell.com,https://www.gigwell.com/pricing,Gigwell,PAID,2026-11-22T01:59:45.347658Z
+1.0,PRODUCT,cinapse.io,https://www.cinapse.io/pricing,Cinapse,FREEMIUM,2026-11-22T01:59:45.434274Z
+1.0,PRODUCT,machine0.io,https://machine0.io/pricing,machine0,PAID,2026-11-22T01:59:45.870811Z
+1.0,PRODUCT,proxis.ai,https://www.proxis.ai/pricing,Proxis,FREEMIUM,2026-11-22T01:59:46.058518Z
+1.0,PRODUCT,misolabs.ai,https://www.misolabs.ai/pricing,Miso,PAID,2026-11-22T01:59:46.389560Z
+1.0,PRODUCT,streak.com,https://www.streak.com/pricing,Streak,FREEMIUM,2026-11-22T01:59:46.559872Z
+1.0,PRODUCT,porter.run,https://www.porter.run/pricing,Porter,PAID,2026-11-22T01:59:46.677415Z
+1.0,PRODUCT,reworkd.ai,https://www.reworkd.ai/pricing,Reworkd,FREEMIUM,2026-11-22T01:59:46.738471Z
+1.0,PRODUCT,pazi.ai,https://pazi.ai/pricing,Pazi,FREEMIUM,2026-11-22T01:59:46.824952Z
+1.0,PRODUCT,getmeadow.com,https://getmeadow.com/pricing,Meadow,PAID,2026-11-22T01:59:46.993510Z
+1.0,PRODUCT,mlop.ai,https://mlop.ai/pricing,mlop,FREEMIUM,2026-11-22T01:59:47.254465Z
+1.0,PRODUCT,icepanel.io,https://icepanel.io/pricing,IcePanel,FREEMIUM,2026-11-22T01:59:47.382421Z
+1.0,PRODUCT,winfunc.com,https://winfunc.com/pricing,winfunc,PAID,2026-11-22T01:59:47.430561Z
+1.0,PRODUCT,usevyra.com,https://www.usevyra.com/pricing,Vyra,PAID,2026-11-22T01:59:48.005579Z
+1.0,PRODUCT,jetadmin.io,https://www.jetadmin.io/pricing,Jet Admin,FREEMIUM,2026-11-22T01:59:48.093000Z
+1.0,PRODUCT,tsenta.com,https://tsenta.com/pricing,Tsenta,FREEMIUM,2026-11-22T01:59:48.201677Z
+1.0,PRODUCT,d-id.com,https://www.d-id.com/pricing/studio/,D-ID,ENTERPRISE,2026-11-22T01:59:48.826081Z
+1.0,PRODUCT,spott.io,https://spott.io/pricing,Spott,PAID,2026-11-22T01:59:48.887523Z
+1.0,PRODUCT,unlayer.com,https://unlayer.com/pricing,Unlayer,FREEMIUM,2026-11-22T01:59:49.268678Z
+1.0,PRODUCT,mindfi.co,https://mindfi.co/pricing,MindFi,FREEMIUM,2026-11-22T01:59:49.593816Z
+1.0,PRODUCT,octolane.com,https://www.octolane.com/pricing,Octolane AI,FREEMIUM,2026-11-22T01:59:50.188990Z
+1.0,PRODUCT,startpinch.com,https://startpinch.com/pricing,Pinch,PAID,2026-11-22T01:59:50.909817Z
+1.0,PRODUCT,circleback.ai,https://circleback.ai/pricing,Circleback,FREEMIUM,2026-11-22T01:59:51.007467Z
+1.0,PRODUCT,coinrule.com,https://coinrule.com/pricing.html,Coinrule,PAID,2026-11-22T01:59:51.047556Z
+1.0,PRODUCT,armature.tech,https://armature.tech/pricing,Armature,FREEMIUM,2026-11-22T01:59:52.156922Z
+1.0,PRODUCT,tepali.com,https://www.tepali.com/pricing,Tepali,ENTERPRISE,2026-11-22T01:59:52.338395Z
+1.0,PRODUCT,terrakotta.ai,https://www.terrakotta.ai/pricing,Terrakotta,ENTERPRISE,2026-11-22T01:59:52.557003Z
+1.0,PRODUCT,docsum.ai,https://www.docsum.ai/pricing,Docsum,PAID,2026-11-22T01:59:52.797447Z
+1.0,PRODUCT,onboard.io,https://onboard.io/pricing,Onboard.io,PAID,2026-11-22T01:59:53.353062Z
+1.0,PRODUCT,mallocprivacy.com,https://mallocprivacy.com/pricing/,Malloc,PAID,2026-11-22T01:59:53.664977Z
+1.0,PRODUCT,superlog.sh,https://superlog.sh/pricing,Superlog,PAID,2026-11-22T01:59:53.676239Z
+1.0,PRODUCT,revnu.com,https://revnu.com/pricing,Revnu,PAID,2026-11-22T01:59:54.209460Z
+1.0,PRODUCT,diffusion.studio,https://diffusion.studio/pricing,Diffusion Studio,FREEMIUM,2026-11-22T01:59:54.404652Z
+1.0,PRODUCT,awtomic.com,https://www.awtomic.com/pricing,Awtomic,PAID,2026-11-22T01:59:54.697388Z
+1.0,PRODUCT,limrun.com,https://limrun.com/pricing,Limrun,FREEMIUM,2026-11-22T01:59:54.838355Z
+1.0,PRODUCT,dittowords.com,https://www.dittowords.com/pricing,Ditto,FREE,2026-11-22T01:59:55.225470Z
+1.0,PRODUCT,yarn.so,https://www.yarn.so/pricing,Yarn,FREEMIUM,2026-11-22T01:59:55.403645Z
+1.0,PRODUCT,canvas.inc,https://www.canvas.inc/pricing,Canvas,FREEMIUM,2026-11-22T01:59:55.411927Z
+1.0,PRODUCT,wareiq.com,https://wareiq.com/resources/d2c-ecommerce-trending-topics/understanding-fulfillment-storage-pricing-occupancy-rate-vs-per-unit-rate/,WareIQ,PAID,2026-11-22T01:59:55.462354Z
+1.0,PRODUCT,pumpgtm.com,https://pumpgtm.com/pricing,PumpGTM,FREEMIUM,2026-11-22T01:59:55.518541Z
+1.0,PRODUCT,velt.dev,https://velt.dev/pricing,Velt,FREE,2026-11-22T01:59:55.667517Z
+1.0,PRODUCT,projectx.cloud,https://projectx.cloud/pricing,ProjectX,PAID,2026-11-22T01:59:55.684880Z
+1.0,PRODUCT,floot.com,https://floot.com/en/pricing,Floot,FREEMIUM,2026-11-22T01:59:56.403916Z
+1.0,PRODUCT,lightdash.com,https://www.lightdash.com/pricing,Lightdash,PAID,2026-11-22T01:59:56.635100Z
+1.0,PRODUCT,paperinstruments.com,https://www.paperinstruments.com/pricing,Paper Instruments,PAID,2026-11-22T01:59:57.025569Z
+1.0,PRODUCT,respan.ai,https://www.respan.ai/pricing,Respan,FREEMIUM,2026-11-22T01:59:57.900518Z
+1.0,PRODUCT,encord.com,https://encord.com/pricing/,Encord,ENTERPRISE,2026-11-22T01:59:58.201678Z
+1.0,PRODUCT,animaapp.com,https://www.animaapp.com/pricing,Anima App,FREEMIUM,2026-11-22T01:59:58.935225Z
+1.0,PRODUCT,hoplite.sh,https://hoplite.sh/pricing,Hoplite,FREEMIUM,2026-11-22T01:59:59.145156Z
+1.0,PRODUCT,plivo.com,https://www.plivo.com/pricing/,Plivo,PAID,2026-11-22T01:59:59.277800Z
+1.0,PRODUCT,zoko.io,https://www.zoko.io/pricing,ZOKO,FREEMIUM,2026-11-22T01:59:59.304331Z
+1.0,PRODUCT,hyperprobe.co,https://www.hyperprobe.co/pricing,HyperProbe,FREEMIUM,2026-11-22T01:59:59.754085Z
+1.0,PRODUCT,getcone.io,https://getcone.io/pricing,Cone,FREEMIUM,2026-11-22T01:59:59.861802Z
+1.0,PRODUCT,vellum.ai,https://www.vellum.ai/pricing,Vellum,PAID,2026-11-22T02:00:01.092669Z
+1.0,PRODUCT,ultralig.ht,https://ultralig.ht/pricing,Ultralight,FREEMIUM,2026-11-22T02:00:01.329464Z
+1.0,PRODUCT,predictleads.com,https://predictleads.com/pricing,PredictLeads,PAID,2026-11-22T02:00:01.349088Z
+1.0,PRODUCT,zinc.com,https://www.zinc.com/pricing,Zinc,PAID,2026-11-22T02:00:01.491807Z
+1.0,PRODUCT,energent.ai,https://www.energent.ai/pricing,Energent AI,FREEMIUM,2026-11-22T02:00:01.616930Z
+1.0,PRODUCT,vybe.build,https://www.vybe.build/pricing,Vybe,FREEMIUM,2026-11-22T02:00:01.756798Z
+1.0,PRODUCT,corgilabs.ai,https://www.corgilabs.ai/pricing,Corgi,PAID,2026-11-22T02:00:02.031562Z
+1.0,PRODUCT,withsurface.com,https://www.withsurface.com/pricing,Surface,PAID,2026-11-22T02:00:02.049904Z
+1.0,PRODUCT,aside.com,https://aside.com/pricing,Aside,FREEMIUM,2026-11-22T02:00:02.320968Z
+1.0,PRODUCT,rosebud.ai,https://rosebud.ai/pricing,Rosebud AI,FREEMIUM,2026-11-22T02:00:02.511147Z
+1.0,PRODUCT,tryrisotto.com,https://www.tryrisotto.com/pricing,Risotto,PAID,2026-11-22T02:00:02.645343Z
+1.0,PRODUCT,alguna.com,https://alguna.com/pricing,Alguna,FREEMIUM,2026-11-22T02:00:02.710512Z
+1.0,PRODUCT,podium.com,https://www.podium.com/getpricing,Podium,ENTERPRISE,2026-11-22T02:00:02.725143Z
+1.0,PRODUCT,vorflux.ai,https://vorflux.ai/pricing,Vorflux,PAID,2026-11-22T02:00:02.776309Z
+1.0,PRODUCT,eightsend.com,https://eightsend.com/pricing,Eightsend (formerly CentralComs),PAID,2026-11-22T02:00:02.943230Z
+1.0,PRODUCT,jcode.sh,https://jcode.sh/pricing,Jcode,FREEMIUM,2026-11-22T02:00:03.088869Z
+1.0,PRODUCT,chrt.com,https://chrt.com/pricing,chrt,PAID,2026-11-22T02:00:03.632104Z
+1.0,PRODUCT,captivateiq.com,https://www.captivateiq.com/pricing,CaptivateIQ,ENTERPRISE,2026-11-22T02:00:04.355491Z
+1.0,PRODUCT,rainbrand.com,https://www.rainbrand.com/pricing/,Rainbrand,PAID,2026-11-22T02:00:04.697636Z
+1.0,PRODUCT,ploid.com,https://ploid.com/pricing,Ploid,PAID,2026-11-22T02:00:06.152596Z
+1.0,PRODUCT,workflowy.com,https://workflowy.com/pricing/,WorkFlowy,PAID,2026-11-22T02:00:06.237916Z
+1.0,PRODUCT,warp.co,https://www.warp.co/pricing,Warp,PAID,2026-11-22T02:00:06.922195Z
+1.0,PRODUCT,tracecat.com,https://www.tracecat.com/pricing,Tracecat,FREEMIUM,2026-11-22T02:00:07.018996Z
+1.0,PRODUCT,useclick.ai,https://useclick.ai/pricing,Click,FREEMIUM,2026-11-22T02:00:07.843988Z
+1.0,PRODUCT,21st.dev,https://21st.dev/pricing,21st,FREEMIUM,2026-11-22T02:00:08.066712Z
+1.0,PRODUCT,brainboard.co,https://www.brainboard.co/pricing,Brainboard,FREEMIUM,2026-11-22T02:00:08.338079Z
+1.0,PRODUCT,mozartdata.com,https://mozartdata.com/pricing/,Mozart Data,FREEMIUM,2026-11-22T02:00:08.617905Z
+1.0,PRODUCT,useautumn.com,https://useautumn.com/pricing,Autumn,FREEMIUM,2026-11-22T02:00:08.672632Z
+1.0,PRODUCT,handoff.ai,https://www.handoff.ai/pricing,Handoff,PAID,2026-11-22T02:00:08.725067Z
+1.0,PRODUCT,hatchways.io,https://www.hatchways.io/pricing,Hatchways,PAID,2026-11-22T02:00:08.732306Z
+1.0,PRODUCT,boundaryml.com,https://boundaryml.com/pricing,Boundary,FREEMIUM,2026-11-22T02:00:08.838416Z
+1.0,PRODUCT,primordiant.com,https://www.primordiant.com/pricing,Primordiant,PAID,2026-11-22T02:00:08.868273Z
+1.0,PRODUCT,getzep.com,https://www.getzep.com/pricing/,Zep AI,FREEMIUM,2026-11-22T02:00:09.390351Z
+1.0,PRODUCT,sunflowerclinic.com,https://sunflowerclinic.com/pricing,Sunflower,PAID,2026-11-22T02:00:09.630555Z
+1.0,PRODUCT,bland.ai,https://www.bland.ai/pricing,Bland AI,PAID,2026-11-22T02:00:09.756988Z
+1.0,PRODUCT,traceroot.ai,https://traceroot.ai/pricing,traceroot,FREEMIUM,2026-11-22T02:00:10.095095Z
+1.0,PRODUCT,aircaps.ai,https://aircaps.ai/pricing,AirCaps AI,PAID,2026-11-22T02:00:10.804613Z
+1.0,PRODUCT,piinpoint.com,https://www.piinpoint.com/pricing,PiinPoint,ENTERPRISE,2026-11-22T02:00:12.534665Z
+1.0,PRODUCT,bondapp.io,https://www.bondapp.io/pricing/,Bond,FREEMIUM,2026-11-22T02:00:12.597483Z
+1.0,PRODUCT,ad.army,https://ad.army/pricing,Ad Army,FREEMIUM,2026-11-22T02:00:13.273220Z
+1.0,PRODUCT,skillsync.com,https://skillsync.com/pricing,Skillsync,FREE,2026-11-22T02:00:13.827337Z
+1.0,PRODUCT,sourcebot.dev,https://www.sourcebot.dev/pricing,Sourcebot,FREEMIUM,2026-11-22T02:00:14.046704Z
+1.0,PRODUCT,cosmicjs.com,https://www.cosmicjs.com/pricing,Cosmic,FREEMIUM,2026-11-22T02:00:14.090777Z
+1.0,PRODUCT,outset.ai,https://outset.ai/pricing,Outset,ENTERPRISE,2026-11-22T02:00:15.240836Z
+1.0,PRODUCT,tarifflo.com,https://www.tarifflo.com/pricing,Tarifflo,FREEMIUM,2026-11-22T02:00:15.492493Z
+1.0,PRODUCT,finta.com,https://www.finta.com/pricing,Finta,PAID,2026-11-22T02:00:15.559864Z
+1.0,PRODUCT,flowmanual.com,https://flowmanual.com/pricing,FlowManual,FREE,2026-11-22T02:00:15.713083Z
+1.0,PRODUCT,assistant-ui.com,https://www.assistant-ui.com/pricing,assistant-ui,FREEMIUM,2026-11-22T02:00:16.319915Z
+1.0,PRODUCT,adside.ai,https://www.adside.ai/pricing,Adside.ai,PAID,2026-11-22T02:00:16.541061Z
+1.0,PRODUCT,sitefire.ai,https://sitefire.ai/pricing,Sitefire,PAID,2026-11-22T02:00:16.932533Z
+1.0,PRODUCT,laurence.com,https://www.laurence.com/pricing,Laurence,FREEMIUM,2026-11-22T02:00:17.147880Z
+1.0,PRODUCT,vapi.ai,https://vapi.ai/pricing,Vapi,FREEMIUM,2026-11-22T02:00:17.759570Z
+1.0,PRODUCT,svix.com,https://www.svix.com/pricing/,Svix,FREEMIUM,2026-11-22T02:00:18.695613Z
+1.0,PRODUCT,executor.sh,https://executor.sh/pricing,Executor,FREEMIUM,2026-11-22T02:00:19.034024Z
+1.0,PRODUCT,waffle.ai,https://waffle.ai/pricing,Waffle,PAID,2026-11-22T02:00:19.331648Z
+1.0,PRODUCT,tilion.com,https://tilion.com/pricing,Tilion,FREEMIUM,2026-11-22T02:00:19.372558Z
+1.0,PRODUCT,relate.so,https://www.relate.so/pricing,Relate,FREEMIUM,2026-11-22T02:00:19.445799Z
+1.0,PRODUCT,getbluejay.ai,https://getbluejay.ai/pricing,Bluejay,PAID,2026-11-22T02:00:19.573846Z
+1.0,PRODUCT,tryterra.co,https://tryterra.co/pricing,Terra API,PAID,2026-11-22T02:00:19.813838Z
+1.0,PRODUCT,windmill.dev,https://www.windmill.dev/pricing,Windmill,FREEMIUM,2026-11-22T02:00:19.875472Z
+1.0,PRODUCT,stampmail.ai,https://www.stampmail.ai/pricing,Stamp,PAID,2026-11-22T02:00:20.359461Z
+1.0,PRODUCT,wondercraft.ai,https://www.wondercraft.ai/pricing,Wondercraft,FREEMIUM,2026-11-22T02:00:20.469071Z
+1.0,PRODUCT,noya.io,https://www.noya.io/pricing,Noya Software,PAID,2026-11-22T02:00:20.679616Z
+1.0,PRODUCT,fuseai.com,https://fuseai.com/pricing,Fuse AI,FREEMIUM,2026-11-22T02:00:20.933661Z
+1.0,PRODUCT,coldreach.ai,https://coldreach.ai/pricing,Coldreach,PAID,2026-11-22T02:00:20.946734Z
+1.0,PRODUCT,veryfi.com,https://www.veryfi.com/pricing/,Veryfi,FREEMIUM,2026-11-22T02:00:21.455873Z
+1.0,PRODUCT,soundkins.com,https://www.soundkins.com/pricing,"AskMyClass, now Soundkins",PAID,2026-11-22T02:00:22.196635Z
+1.0,PRODUCT,smooth.sh,https://www.smooth.sh/pricing,Smooth,PAID,2026-11-22T02:00:22.852367Z
+1.0,PRODUCT,superagent.sh,https://www.superagent.sh/pricing,Superagent,FREEMIUM,2026-11-22T02:00:23.599052Z
+1.0,PRODUCT,caregp.com.au,https://www.caregp.com.au/pricing,Care GP,ENTERPRISE,2026-11-22T02:00:23.858860Z
+1.0,PRODUCT,bitrig.com,https://bitrig.com/pricing,Bitrig,FREEMIUM,2026-11-22T02:00:24.716074Z
+1.0,PRODUCT,camelai.com,https://camelai.com/pricing,camelAI,FREEMIUM,2026-11-22T02:00:24.793341Z
+1.0,PRODUCT,dartai.com,https://www.dartai.com/pricing,Dart,FREEMIUM,2026-11-22T02:00:25.681090Z
+1.0,PRODUCT,zapier.com,https://zapier.com/pricing,Zapier,FREEMIUM,2026-11-22T02:00:25.948487Z
+1.0,PRODUCT,modelence.com,https://modelence.com/pricing,Modelence,FREEMIUM,2026-11-22T02:00:26.542549Z
+1.0,PRODUCT,repacket.com,https://www.repacket.com/pricing,Repacket,PAID,2026-11-22T02:00:26.685633Z
+1.0,PRODUCT,dragoneye.ai,https://dragoneye.ai/pricing/,Dragoneye,FREEMIUM,2026-11-22T02:00:26.934604Z
+1.0,PRODUCT,thunkable.com,https://thunkable.com/pricing,Thunkable,FREEMIUM,2026-11-22T02:00:27.115551Z
+1.0,PRODUCT,jitx.com,https://www.jitx.com/plans,JITX,ENTERPRISE,2026-11-22T02:00:27.802944Z
+1.0,PRODUCT,revyl.com,https://revyl.com/pricing/,Revyl,FREEMIUM,2026-11-22T02:00:28.309611Z
+1.0,PRODUCT,openhack.com,https://openhack.com/pricing,OpenHack,FREEMIUM,2026-11-22T02:00:28.339496Z
+1.0,PRODUCT,native.no,https://native.no/pricing,Native,FREEMIUM,2026-11-22T02:00:28.824691Z
+1.0,PRODUCT,maintouch.com,https://maintouch.com/pricing,Maintouch,PAID,2026-11-22T02:00:28.983843Z
+1.0,PRODUCT,humoniq.ai,https://humoniq.ai/pricing,Humoniq,FREEMIUM,2026-11-22T02:00:29.078252Z
+1.0,PRODUCT,depot.dev,https://depot.dev/pricing,Depot,PAID,2026-11-22T02:00:29.582869Z
+1.0,PRODUCT,helonic.com,https://helonic.com/pricing,Helonic,ENTERPRISE,2026-11-22T02:00:29.658997Z
+1.0,PRODUCT,lemonslice.com,https://lemonslice.com/pricing,LemonSlice,FREEMIUM,2026-11-22T02:00:31.109703Z
+1.0,PRODUCT,getspine.ai,https://www.getspine.ai/pricing,Spine AI,FREEMIUM,2026-11-22T02:00:32.206597Z
+1.0,PRODUCT,getcomputable.com,https://www.getcomputable.com/pricing,Computable,FREEMIUM,2026-11-22T02:00:32.215196Z
+1.0,PRODUCT,honeydew.ai,https://honeydew.ai/pricing/,Honeydew,PAID,2026-11-22T02:00:32.226658Z
+1.0,PRODUCT,useboom.ai,https://www.useboom.ai/pricing,Boom AI,PAID,2026-11-22T02:00:32.669025Z
+1.0,PRODUCT,trydock.ai,https://trydock.ai/pricing,Dock,PAID,2026-11-22T02:00:32.992561Z
+1.0,PRODUCT,confidentlims.com,https://www.confidentlims.com/pricing,Confident LIMS,FREEMIUM,2026-11-22T02:00:33.354390Z
+1.0,PRODUCT,accessowl.com,https://www.accessowl.com/pricing,AccessOwl,PAID,2026-11-22T02:00:33.424060Z
+1.0,PRODUCT,vector.co,https://www.vector.co/pricing,Vector,PAID,2026-11-22T02:00:33.499107Z
+1.0,PRODUCT,frigade.com,https://frigade.com/pricing,Frigade,FREEMIUM,2026-11-22T02:00:34.156192Z
+1.0,PRODUCT,tesser.sh,https://tesser.sh/pricing,Tesser,FREEMIUM,2026-11-22T02:00:34.724340Z
+1.0,PRODUCT,usepylon.com,https://www.usepylon.com/pricing,Pylon,FREEMIUM,2026-11-22T02:00:35.205501Z
+1.0,PRODUCT,codeviz.ai,https://www.codeviz.ai/pricing,CodeViz,FREEMIUM,2026-11-22T02:00:35.217133Z
+1.0,PRODUCT,openworklabs.com,https://openworklabs.com/pricing,OpenWork,FREEMIUM,2026-11-22T02:00:35.708464Z
+1.0,PRODUCT,newscatcherapi.com,https://www.newscatcherapi.com/pricing,NewsCatcher,FREEMIUM,2026-11-22T02:00:35.805721Z
+1.0,PRODUCT,trellus.ai,https://www.trellus.ai/pricing,Trellus,FREEMIUM,2026-11-22T02:00:36.580576Z
+1.0,PRODUCT,logisticsos.com,https://www.logisticsos.com/pricing,LogisticsOS,PAID,2026-11-22T02:00:36.592419Z
+1.0,PRODUCT,twenty.com,https://twenty.com/pricing,Twenty,PAID,2026-11-22T02:00:36.726053Z
+1.0,PRODUCT,greptile.com,https://www.greptile.com/pricing,Greptile,PAID,2026-11-22T02:00:36.954859Z
+1.0,PRODUCT,heptabase.com,https://heptabase.com/pricing,Heptabase,PAID,2026-11-22T02:00:37.091297Z
+1.0,PRODUCT,trylapis.com,https://trylapis.com/pricing,Lapis,ENTERPRISE,2026-11-22T02:00:37.144776Z
+1.0,PRODUCT,iomete.com,https://iomete.com/pricing,IOMETE,FREEMIUM,2026-11-22T02:00:37.409962Z
+1.0,PRODUCT,hyperdesk.com,https://hyperdesk.com/pricing,Hyperdesk,PAID,2026-11-22T02:00:37.782158Z
+1.0,PRODUCT,asteroid.ai,https://asteroid.ai/pricing/,Asteroid,PAID,2026-11-22T02:00:38.053028Z
+1.0,PRODUCT,weekday.works,https://www.weekday.works/pricing,Weekday,PAID,2026-11-22T02:00:38.264726Z
+1.0,PRODUCT,theneo.io,https://www.theneo.io/pricing,Theneo,PAID,2026-11-22T02:00:38.468058Z
+1.0,PRODUCT,gotrebol.com,https://www.gotrebol.com/pricing,Trébol,PAID,2026-11-22T02:00:38.713104Z
+1.0,PRODUCT,starsling.dev,https://starsling.dev/pricing,StarSling,PAID,2026-11-22T02:00:38.989661Z
+1.0,PRODUCT,experientiallabs.ai,https://www.experientiallabs.ai/pricing,Experiential,FREEMIUM,2026-11-22T02:00:39.330374Z
+1.0,PRODUCT,growthbook.io,https://www.growthbook.io/pricing,GrowthBook,FREEMIUM,2026-11-22T02:00:39.388002Z
+1.0,PRODUCT,ellipsis.dev,https://www.ellipsis.dev/pricing,Ellipsis,FREEMIUM,2026-11-22T02:00:39.709159Z
+1.0,PRODUCT,flintk12.com,https://flintk12.com/pricing,Flint,FREEMIUM,2026-11-22T02:00:39.890345Z
+1.0,PRODUCT,omnara.com,https://www.omnara.com/pricing,Omnara,PAID,2026-11-22T02:00:40.347152Z
+1.0,PRODUCT,warpbuild.com,https://www.warpbuild.com/pricing,WarpBuild,PAID,2026-11-22T02:00:40.489484Z
+1.0,PRODUCT,dench.com,https://www.dench.com/pricing,Dench,PAID,2026-11-22T02:00:41.248253Z
+1.0,PRODUCT,cmux.com,https://cmux.com/pricing,cmux,FREEMIUM,2026-11-22T02:00:41.339348Z
+1.0,PRODUCT,usefini.com,https://www.usefini.com/pricing,Fini,FREEMIUM,2026-11-22T02:00:41.952912Z
+1.0,PRODUCT,recall.ai,https://www.recall.ai/pricing,Recall.ai,PAID,2026-11-22T02:00:42.130049Z
+1.0,PRODUCT,openunit.com,https://www.openunit.com/pricing,OpenUnit,FREEMIUM,2026-11-22T02:00:42.434925Z
+1.0,PRODUCT,quo.com,https://www.quo.com/pricing,Quo (fka OpenPhone),FREEMIUM,2026-11-22T02:00:42.731817Z
+1.0,PRODUCT,dev.morphik.ai,https://dev.morphik.ai/pricing,Morphik,FREEMIUM,2026-11-22T02:00:43.523711Z
+1.0,PRODUCT,go1.com,https://www.go1.com/plans,Go1,ENTERPRISE,2026-11-22T02:00:44.148560Z
+1.0,PRODUCT,superside.com,https://www.superside.com/pricing,Superside,PAID,2026-11-22T02:00:44.803677Z
+1.0,PRODUCT,slashy.com,https://www.slashy.com/pricing,Slashy,PAID,2026-11-22T02:00:44.820348Z
+1.0,PRODUCT,ravion.com,https://www.ravion.com/pricing,Ravion,FREEMIUM,2026-11-22T02:00:44.981004Z
+1.0,PRODUCT,slidely.ai,https://slidely.ai/pricing,Slidely AI,PAID,2026-11-22T02:00:45.091845Z
+1.0,PRODUCT,apollo.io,https://www.apollo.io/pricing,Apollo.io,FREEMIUM,2026-11-22T02:00:45.122875Z
+1.0,PRODUCT,nomi.so,https://www.nomi.so/pricing,Nomi,PAID,2026-11-22T02:00:45.171589Z
+1.0,PRODUCT,netmaker.io,https://www.netmaker.io/pricing,Netmaker,FREEMIUM,2026-11-22T02:00:45.465952Z
+1.0,PRODUCT,keyframelabs.com,https://keyframelabs.com/pricing,Keyframe,FREEMIUM,2026-11-22T02:00:45.667785Z
+1.0,PRODUCT,tella.com,https://www.tella.com/pricing,Tella,PAID,2026-11-22T02:00:46.670885Z
+1.0,PRODUCT,decohere.co,https://www.decohere.co/pricing,Decohere,FREEMIUM,2026-11-22T02:00:46.688587Z
+1.0,PRODUCT,parse.bot,https://parse.bot/pricing,Parse,FREEMIUM,2026-11-22T02:00:47.242741Z
+1.0,PRODUCT,alkera.ai,https://www.alkera.ai/pricing,Alkera AI,FREEMIUM,2026-11-22T02:00:47.506334Z
+1.0,PRODUCT,astor.app,https://www.astor.app/pricing,Astor,FREEMIUM,2026-11-22T02:00:47.622723Z
+1.0,PRODUCT,corgea.com,https://corgea.com/pricing,Corgea,FREEMIUM,2026-11-22T02:00:47.990771Z
+1.0,PRODUCT,inbuild.ai,https://www.inbuild.ai/pricing,inBuild,FREEMIUM,2026-11-22T02:00:48.151299Z
+1.0,PRODUCT,cerebrium.ai,https://cerebrium.ai/pricing,Cerebrium,PAID,2026-11-22T02:00:48.292278Z
+1.0,PRODUCT,docs.boat.dev,https://docs.boat.dev/pricing,Boat,FREEMIUM,2026-11-22T02:00:48.429069Z
+1.0,PRODUCT,backstory.ai,https://www.backstory.ai/pricing,People.ai,ENTERPRISE,2026-11-22T02:00:49.061231Z
+1.0,PRODUCT,patientdesk.ai,https://www.patientdesk.ai/pricing,Patientdesk.ai,FREEMIUM,2026-11-22T02:00:49.353964Z
+1.0,PRODUCT,inferedge.com,https://www.inferedge.com/pricing,InferEdge,PAID,2026-11-22T02:00:50.093724Z
+1.0,PRODUCT,webiny.com,https://www.webiny.com/pricing,Webiny,FREEMIUM,2026-11-22T02:00:50.323928Z
+1.0,PRODUCT,wonderly.com,https://www.wonderly.com/pricing,Wonderly,FREEMIUM,2026-11-22T02:00:51.211396Z
+1.0,PRODUCT,nessielabs.com,https://nessielabs.com/pricing,Nessie,PAID,2026-11-22T02:00:51.228405Z
+1.0,PRODUCT,yuma.ai,https://yuma.ai/pricing,Yuma AI,FREEMIUM,2026-11-22T02:00:51.389837Z
+1.0,PRODUCT,strikingly.com,https://www.strikingly.com/s/pricing,Strikingly,FREEMIUM,2026-11-22T02:00:51.806579Z
+1.0,PRODUCT,openrelay.inc,https://openrelay.inc/gpu-pricing-calculator,OpenRelay,PAID,2026-11-22T02:00:51.960181Z
+1.0,PRODUCT,embeddables.com,https://embeddables.com/pricing,Embeddables,PAID,2026-11-22T02:00:52.255467Z
+1.0,PRODUCT,shipbob.com,https://www.shipbob.com/pricing/,ShipBob,PAID,2026-11-22T02:00:52.945019Z
+1.0,PRODUCT,sendblue.com,https://www.sendblue.com/pricing,Sendblue,FREEMIUM,2026-11-22T02:00:53.004989Z
+1.0,PRODUCT,superb-ai.com,https://superb-ai.com/en/pricing,Superb AI,ENTERPRISE,2026-11-22T02:00:53.025526Z
+1.0,PRODUCT,frizzle.com,https://www.frizzle.com/pricing,Frizzle,FREEMIUM,2026-11-22T02:00:53.041515Z
+1.0,PRODUCT,mindfort.ai,https://www.mindfort.ai/pricing,MindFort,PAID,2026-11-22T02:00:53.868433Z
+1.0,PRODUCT,withhuman.ai,https://withhuman.ai/pricing,withHuman,FREEMIUM,2026-11-22T02:00:54.327296Z
+1.0,PRODUCT,algolia.com,https://www.algolia.com/pricing,Algolia,FREEMIUM,2026-11-22T02:00:55.029603Z
+1.0,PRODUCT,rezora.io,https://rezora.io/pricing,Rezora IO,PAID,2026-11-22T02:00:55.173938Z
+1.0,PRODUCT,resend.com,https://resend.com/pricing,Resend,FREEMIUM,2026-11-22T02:00:56.705404Z
+1.0,PRODUCT,didit.me,https://didit.me/pricing/,Didit,FREEMIUM,2026-11-22T02:00:56.928330Z
+1.0,PRODUCT,hudu.com,https://www.hudu.com/pricing,Hudu,PAID,2026-11-22T02:00:56.992760Z
+1.0,PRODUCT,artie.com,https://www.artie.com/pricing,Artie,FREEMIUM,2026-11-22T02:00:57.729401Z
+1.0,PRODUCT,chatfuel.com,https://chatfuel.com/pricing,Chatfuel,PAID,2026-11-22T02:00:57.769781Z
+1.0,PRODUCT,sigmamind.ai,https://www.sigmamind.ai/pricing,SigmaMind AI,PAID,2026-11-22T02:00:58.544868Z
+1.0,PRODUCT,endstack.com,https://www.endstack.com/pricing,Endstack,PAID,2026-11-22T02:00:58.679813Z
+1.0,PRODUCT,padlet.com,https://padlet.com/site/subscriptions,Padlet,FREEMIUM,2026-11-22T02:00:58.979017Z
+1.0,PRODUCT,golinks.io,https://www.golinks.io/pricing.php,GoLinks,FREEMIUM,2026-11-22T02:00:59.168317Z
+1.0,PRODUCT,tiriel.ai,https://tiriel.ai/pricing,Tiriel AI,PAID,2026-11-22T02:00:59.193463Z
+1.0,PRODUCT,flutterflow.io,https://flutterflow.io/pricing,FlutterFlow,FREEMIUM,2026-11-22T02:00:59.258106Z
+1.0,PRODUCT,getshogun.com,https://getshogun.com/pricing,Shogun,FREEMIUM,2026-11-22T02:01:00.414059Z
+1.0,PRODUCT,bik.ai,https://bik.ai/pricing,BIK,PAID,2026-11-22T02:01:00.435342Z
+1.0,PRODUCT,palmier.io,https://www.palmier.io/pricing,Palmier,FREEMIUM,2026-11-22T02:01:00.956551Z
+1.0,PRODUCT,reducto.ai,https://reducto.ai/pricing,Reducto,PAID,2026-11-22T02:01:00.983579Z
+1.0,PRODUCT,nimbic-ai.com,https://nimbic-ai.com/pricing,Nimbic AI,PAID,2026-11-22T02:01:01.181643Z
+1.0,PRODUCT,prolific.com,https://www.prolific.com/pricing,Prolific,PAID,2026-11-22T02:01:01.331964Z
+1.0,PRODUCT,cortex.io,https://www.cortex.io/pricing,Cortex,ENTERPRISE,2026-11-22T02:01:01.709268Z
+1.0,PRODUCT,cloudcruise.com,https://cloudcruise.com/pricing,CloudCruise,FREEMIUM,2026-11-22T02:01:01.789312Z
+1.0,PRODUCT,minded.com,https://www.minded.com/pricing,Minded,PAID,2026-11-22T02:01:01.812690Z
+1.0,PRODUCT,vespper.com,https://www.vespper.com/pricing,Vespper,FREEMIUM,2026-11-22T02:01:01.888742Z
+1.0,PRODUCT,midrender.com,https://midrender.com/pricing,Midrender,FREEMIUM,2026-11-22T02:01:02.082246Z
+1.0,PRODUCT,diversion.dev,https://www.diversion.dev/pricing,Diversion,FREEMIUM,2026-11-22T02:01:02.222124Z
+1.0,PRODUCT,dover.com,https://www.dover.com/pricing,Dover,FREEMIUM,2026-11-22T02:01:02.320057Z
+1.0,PRODUCT,draftbit.com,https://draftbit.com/pricing/,Draftbit,FREEMIUM,2026-11-22T02:01:02.631248Z
+1.0,PRODUCT,rastro.ai,https://www.rastro.ai/pricing,Rastro,PAID,2026-11-22T02:01:02.651135Z
+1.0,PRODUCT,bitrise.io,https://bitrise.io/pricing,Bitrise,FREEMIUM,2026-11-22T02:01:02.831707Z
+1.0,PRODUCT,getfinn.us,https://getfinn.us/support/pricing/,Finn,FREEMIUM,2026-11-22T02:01:02.888875Z
+1.0,PRODUCT,aspect.inc,https://aspect.inc/pricing,Aspect,FREEMIUM,2026-11-22T02:01:03.170896Z
+1.0,PRODUCT,creativemode.net,https://creativemode.net/subscribe,CreativeMode,PAID,2026-11-22T02:01:03.753340Z
+1.0,PRODUCT,applydesign.io,https://www.applydesign.io/our-pricing,Apply Design,PAID,2026-11-22T02:01:03.890605Z
+1.0,PRODUCT,apozy.com,https://www.apozy.com/pricing,Apozy,PAID,2026-11-22T02:01:04.094066Z
+1.0,PRODUCT,jetdocs.io,https://jetdocs.io/pricing,Jetdocs,PAID,2026-11-22T02:01:04.225383Z
+1.0,PRODUCT,argalabs.com,https://www.argalabs.com/pricing,Arga,FREEMIUM,2026-11-22T02:01:04.501772Z
+1.0,PRODUCT,ample.computer,https://ample.computer/pricing,Ample Computer,FREEMIUM,2026-11-22T02:01:04.673916Z
+1.0,PRODUCT,hypestream.io,https://www.hypestream.io/pricing,Hypestream,PAID,2026-11-22T02:01:05.156281Z
+1.0,PRODUCT,storylane.io,https://www.storylane.io/plans,Storylane,FREEMIUM,2026-11-22T02:01:05.357244Z
+1.0,PRODUCT,instabox.sh,https://instabox.sh/pricing,InstaBox,FREEMIUM,2026-11-22T02:01:05.438368Z
+1.0,PRODUCT,numeral.com,https://www.numeral.com/pricing,Numeral,PAID,2026-11-22T02:01:05.494143Z
+1.0,PRODUCT,variance.com,https://www.variance.com/pricing,Variance,PAID,2026-11-22T02:01:05.870890Z
+1.0,PRODUCT,patternfast.com,https://patternfast.com/pricing,PatternFast (prior: Tailornova/Couturme),PAID,2026-11-22T02:01:06.000598Z
+1.0,PRODUCT,replicas.dev,https://replicas.dev/pricing,Replicas,PAID,2026-11-22T02:01:06.283844Z
+1.0,PRODUCT,jarmin.ai,https://www.jarmin.ai/pricing,Jarmin,ENTERPRISE,2026-11-22T02:01:06.729235Z
+1.0,PRODUCT,cranston.ai,https://cranston.ai/pricing,Cranston AI,PAID,2026-11-22T02:01:06.751090Z
+1.0,PRODUCT,denki.ai,https://denki.ai/pricing,Denki,PAID,2026-11-22T02:01:07.215935Z
+1.0,PRODUCT,artil.ai,https://artil.ai/pricing/,Artil,FREEMIUM,2026-11-22T02:01:07.270815Z
+1.0,PRODUCT,humaans.io,https://humaans.io/pricing,Humaans,ENTERPRISE,2026-11-22T02:01:07.393530Z
+1.0,PRODUCT,roboticscenter.ai,https://www.roboticscenter.ai/pricing,DeepAware AI (Robotics Center of Silicon Valley),FREEMIUM,2026-11-22T02:01:07.483229Z
+1.0,PRODUCT,factiq.com,https://www.factiq.com/pricing,FactIQ,FREEMIUM,2026-11-22T02:01:07.509970Z
+1.0,PRODUCT,cogram.com,https://cogram.com/pricing,Cogram,PAID,2026-11-22T02:01:08.178090Z
+1.0,PRODUCT,inkbox.ai,https://inkbox.ai/pricing,Inkbox,FREEMIUM,2026-11-22T02:01:08.237566Z
+1.0,PRODUCT,caretta.so,https://www.caretta.so/pricing,Caretta,FREEMIUM,2026-11-22T02:01:08.804716Z
+1.0,PRODUCT,expo.dev,https://expo.dev/pricing,Expo,FREEMIUM,2026-11-22T02:01:09.158979Z
+1.0,PRODUCT,askclara.com,https://askclara.com/pricing,Clara,PAID,2026-11-22T02:01:09.344286Z
+1.0,PRODUCT,deel.com,https://www.deel.com/pricing/,Deel,PAID,2026-11-22T02:01:10.140930Z
+1.0,PRODUCT,rational.to,https://rational.to/ai-accounting-pricing.html,Rational,PAID,2026-11-22T02:01:10.158943Z
+1.0,PRODUCT,sellraze.com,https://www.sellraze.com/pricing,SellRaze,PAID,2026-11-22T02:01:10.451694Z
+1.0,PRODUCT,craze.ai,https://www.craze.ai/pricing,Craze,FREEMIUM,2026-11-22T02:01:10.531842Z
+1.0,PRODUCT,trigger.dev,https://trigger.dev/pricing,Trigger.dev,FREEMIUM,2026-11-22T02:01:10.881716Z
+1.0,PRODUCT,apoxy.dev,https://apoxy.dev/pricing,Apoxy,FREEMIUM,2026-11-22T02:01:10.996284Z
+1.0,PRODUCT,traceforce.ai,https://www.traceforce.ai/pricing,Traceforce,FREEMIUM,2026-11-22T02:01:11.063230Z
+1.0,PRODUCT,artillery.io,https://www.artillery.io/pricing,Artillery,FREEMIUM,2026-11-22T02:01:11.569470Z
+1.0,PRODUCT,rysemarket.com,https://www.rysemarket.com/pricing,Ryse,FREEMIUM,2026-11-22T02:01:12.207006Z
+1.0,PRODUCT,wakeshift.ai,https://wakeshift.ai/pricing,Wakeshift,FREEMIUM,2026-11-22T02:01:12.415128Z
+1.0,PRODUCT,usergems.com,https://www.usergems.com/pricing,UserGems,PAID,2026-11-22T02:01:13.391017Z
+1.0,PRODUCT,stacksync.com,https://www.stacksync.com/pricing,Stacksync,PAID,2026-11-22T02:01:13.522232Z
+1.0,PRODUCT,nanocorp.so,https://www.nanocorp.so/pricing,NanoCorp,PAID,2026-11-22T02:01:13.887839Z
+1.0,PRODUCT,odigos.io,https://odigos.io/pricing,Odigos,ENTERPRISE,2026-11-22T02:01:14.166305Z
+1.0,PRODUCT,try.wideframe.com,https://try.wideframe.com/pricing/,Wideframe,PAID,2026-11-22T02:01:14.484200Z
+1.0,PRODUCT,minusx.ai,https://minusx.ai/pricing/,MinusX,FREEMIUM,2026-11-22T02:01:14.865678Z
+1.0,PRODUCT,whalesync.com,https://www.whalesync.com/pricing,Whalesync,PAID,2026-11-22T02:01:14.960465Z
+1.0,PRODUCT,mavenbio.com,https://mavenbio.com/pricing,Maven Bio,ENTERPRISE,2026-11-22T02:01:15.338108Z
+1.0,PRODUCT,papaya.fyi,https://papaya.fyi/pricing,Papaya,FREEMIUM,2026-11-22T02:01:15.348959Z
+1.0,PRODUCT,devyce.com,https://devyce.com/features-plans,Devyce,PAID,2026-11-22T02:01:15.916157Z
+1.0,PRODUCT,peoplebox.ai,https://www.peoplebox.ai/pricing/,Peoplebox.ai,PAID,2026-11-22T02:01:16.466115Z
+1.0,PRODUCT,cashbook.in,https://cashbook.in/pricing,CashBook,PAID,2026-11-22T02:01:16.809755Z
+1.0,PRODUCT,onkeiki.com,https://onkeiki.com/pricing,Keiki,PAID,2026-11-22T02:01:16.921607Z
+1.0,PRODUCT,perit.ai,https://perit.ai/pricing,Perit.AI,ENTERPRISE,2026-11-22T02:01:17.239418Z
+1.0,PRODUCT,postscript.io,https://postscript.io/pricing,Postscript,FREEMIUM,2026-11-22T02:01:17.388337Z
+1.0,PRODUCT,leapingai.com,https://leapingai.com/pricing,Leaping AI,ENTERPRISE,2026-11-22T02:01:17.805103Z
+1.0,PRODUCT,webflow.com,https://webflow.com/pricing,Webflow,FREEMIUM,2026-11-22T02:01:18.833152Z
+1.0,PRODUCT,loopfour.ai,https://loopfour.ai/pricing,loopfour,PAID,2026-11-22T02:01:19.446104Z
+1.0,PRODUCT,codag.ai,https://codag.ai/pricing,Codag,PAID,2026-11-22T02:01:19.546562Z
+1.0,PRODUCT,anara.com,https://anara.com/pricing,Anara,FREEMIUM,2026-11-22T02:01:19.727387Z
+1.0,PRODUCT,slite.com,https://slite.com/pricing,Slite,FREEMIUM,2026-11-22T02:01:20.039263Z
+1.0,PRODUCT,cashboard.co,https://cashboard.co/pricing,Cashboard,PAID,2026-11-22T02:01:20.055352Z
+1.0,PRODUCT,sprites.ai,https://www.sprites.ai/pricing,Sprites,FREEMIUM,2026-11-22T02:01:20.098078Z
+1.0,PRODUCT,firecrawl.dev,https://www.firecrawl.dev/pricing,Firecrawl,FREEMIUM,2026-11-22T02:01:20.385899Z
+1.0,PRODUCT,fixa.dev,https://fixa.dev/pricing,fixa,FREEMIUM,2026-11-22T02:01:20.645040Z
+1.0,PRODUCT,paradedb.com,https://www.paradedb.com/pricing,ParadeDB,FREEMIUM,2026-11-22T02:01:21.333772Z
+1.0,PRODUCT,ramain.ai,https://ramain.ai/pricing,RamAIn,PAID,2026-11-22T02:01:21.518465Z
+1.0,PRODUCT,drafted.ai,https://www.drafted.ai/pricing,Drafted,FREEMIUM,2026-11-22T02:01:21.983415Z
+1.0,PRODUCT,gumloop.com,https://www.gumloop.com/pricing,Gumloop,PAID,2026-11-22T02:01:23.443497Z
+1.0,PRODUCT,getcrux.ai,https://getcrux.ai/pricing,GetCrux,PAID,2026-11-22T02:01:23.842168Z
+1.0,PRODUCT,arketa.com,https://www.arketa.com/pricing,Arketa,PAID,2026-11-22T02:01:24.199249Z
+1.0,PRODUCT,taiv.tv,https://www.taiv.tv/pricing/,Taiv,FREE,2026-11-22T02:01:24.969319Z
+1.0,PRODUCT,trellistech.com,https://www.trellistech.com/pricing,Trellis,FREEMIUM,2026-11-22T02:01:25.048695Z
+1.0,PRODUCT,consus.io,https://consus.io/pricing,Consus,PAID,2026-11-22T02:01:25.394976Z
+1.0,PRODUCT,akonlabs.com,https://www.akonlabs.com/pricing,Akon,FREEMIUM,2026-11-22T02:01:25.425422Z
+1.0,PRODUCT,strac.io,https://www.strac.io/pricing,Strac,FREEMIUM,2026-11-22T02:01:25.567914Z
+1.0,PRODUCT,stewdio.ai,https://www.stewdio.ai/pricing,Stewdio,FREEMIUM,2026-11-22T02:01:25.583205Z
+1.0,PRODUCT,simantic.com,https://simantic.com/pricing,Simantic,PAID,2026-11-22T02:01:25.591880Z
+1.0,PRODUCT,sendbird.com,https://sendbird.com/pricing/chat,Sendbird,FREEMIUM,2026-11-22T02:01:25.781576Z
+1.0,PRODUCT,stempad.com,https://www.stempad.com/pricing,Stempad,FREEMIUM,2026-11-22T02:01:26.134955Z
+1.0,PRODUCT,moss.dev,https://www.moss.dev/pricing,Moss,PAID,2026-11-22T02:01:26.422434Z
+1.0,PRODUCT,usepostal.com,https://www.usepostal.com/pricing,Postal,PAID,2026-11-22T02:01:27.089273Z
+1.0,PRODUCT,ploy.ai,https://ploy.ai/pricing,Ploy,FREEMIUM,2026-11-22T02:01:27.121967Z
+1.0,PRODUCT,tiptap.dev,https://tiptap.dev/pricing,Tiptap,PAID,2026-11-22T02:01:27.289653Z
+1.0,PRODUCT,archilabs.ai,https://archilabs.ai/pricing,ArchiLabs,PAID,2026-11-22T02:01:27.403876Z
+1.0,PRODUCT,magicloops.dev,https://magicloops.dev/pricing,Magic Loops,FREEMIUM,2026-11-22T02:01:27.665955Z
+1.0,PRODUCT,manufact.com,https://manufact.com/pricing,Manufact,FREEMIUM,2026-11-22T02:01:27.958406Z
+1.0,PRODUCT,tryardent.com,https://www.tryardent.com/pricing,Ardent,PAID,2026-11-22T02:01:29.098732Z
+1.0,PRODUCT,zerodev.app,https://www.zerodev.app/pricing,ZeroDev,FREEMIUM,2026-11-22T02:01:29.119527Z
+1.0,PRODUCT,authzed.com,https://authzed.com/pricing,authzed,PAID,2026-11-22T02:01:29.699220Z
+1.0,PRODUCT,usesalus.ai,https://usesalus.ai/pricing,Salus,PAID,2026-11-22T02:01:30.647512Z
+1.0,PRODUCT,anakin.io,https://anakin.io/pricing,Anakin,FREEMIUM,2026-11-22T02:01:30.891719Z
+1.0,PRODUCT,openreplay.com,https://openreplay.com/pricing/,OpenReplay,PAID,2026-11-22T02:01:31.982726Z
+1.0,PRODUCT,useterse.ai,https://www.useterse.ai/pricing,Terse,PAID,2026-11-22T02:01:32.445938Z
+1.0,PRODUCT,foreman.co,https://foreman.co/pricing,Foreman,FREEMIUM,2026-11-22T02:01:32.465265Z
+1.0,PRODUCT,getdot.ai,https://www.getdot.ai/pricing,GetDot,FREEMIUM,2026-11-22T02:01:33.403767Z
+1.0,PRODUCT,quicknode.com,https://www.quicknode.com/pricing,Quicknode,FREEMIUM,2026-11-22T02:01:33.689334Z
+1.0,PRODUCT,byteask.ai,https://byteask.ai/pricing,ByteAsk,FREEMIUM,2026-11-22T02:01:33.833017Z
+1.0,PRODUCT,trainy.ai,https://www.trainy.ai/pricing,Trainy,FREEMIUM,2026-11-22T02:01:33.967619Z
+1.0,PRODUCT,mux.com,https://www.mux.com/pricing,Mux,FREEMIUM,2026-11-22T02:01:34.019942Z
+1.0,PRODUCT,roboflow.com,https://roboflow.com/pricing,Roboflow,FREEMIUM,2026-11-22T02:01:34.386843Z
+1.0,PRODUCT,ambition.com,https://ambition.com/pricing,Ambition,PAID,2026-11-22T02:01:34.697764Z
+1.0,PRODUCT,repaint.com,https://repaint.com/pricing,Repaint,PAID,2026-11-22T02:01:34.780632Z
+1.0,PRODUCT,venu3d.com,https://www.venu3d.com/pricing,Venu AI,PAID,2026-11-22T02:01:34.956422Z
+1.0,PRODUCT,akiflow.com,https://akiflow.com/pricing,Akiflow,FREEMIUM,2026-11-22T02:01:35.825289Z
+1.0,PRODUCT,absurd.com,https://absurd.com/pricing,Absurd,FREEMIUM,2026-11-22T02:01:36.533620Z
+1.0,PRODUCT,orderli.com,https://orderli.com/en/pricing,Orderli,PAID,2026-11-22T02:01:36.664282Z
+1.0,PRODUCT,verbiflow.com,https://verbiflow.com/pricing,Verbiflow,PAID,2026-11-22T02:01:36.686266Z
+1.0,PRODUCT,hiyam.ai,https://www.hiyam.ai/pricing,Yam,FREEMIUM,2026-11-22T02:01:36.739638Z
+1.0,PRODUCT,clueso.io,https://www.clueso.io/pricing,Clueso,FREEMIUM,2026-11-22T02:01:36.840586Z
+1.0,PRODUCT,usegrade.com,https://usegrade.com/pricing,Grade,FREEMIUM,2026-11-22T02:01:37.023554Z
+1.0,PRODUCT,avina.io,https://www.avina.io/pricing,Avina,PAID,2026-11-22T02:01:37.086278Z
+1.0,PRODUCT,fours.com,https://www.fours.com/pricing/,Fours,ENTERPRISE,2026-11-22T02:01:37.225497Z
+1.0,PRODUCT,42technologies.com,https://www.42technologies.com/pricing,42,PAID,2026-11-22T02:01:37.302742Z
+1.0,PRODUCT,commonpaper.com,https://commonpaper.com/pricing,Common Paper,FREEMIUM,2026-11-22T02:01:37.403104Z
+1.0,PRODUCT,inth.com,https://inth.com/pricing,Inth,FREEMIUM,2026-11-22T02:01:38.784974Z
+1.0,PRODUCT,tday.com,https://tday.com/pricing,tday,FREEMIUM,2026-11-22T02:01:38.858562Z
+1.0,PRODUCT,affogato.ai,https://affogato.ai/pricing,Affogato AI,PAID,2026-11-22T02:01:39.282876Z
+1.0,PRODUCT,bolto.com,https://www.bolto.com/pricing,Bolto,PAID,2026-11-22T02:01:39.585324Z
+1.0,PRODUCT,tryprism.com,https://tryprism.com/pricing,Prism,PAID,2026-11-22T02:01:39.652497Z
+1.0,PRODUCT,buildjet.com,https://buildjet.com/for-github-actions/docs/about/pricing,BuildJet,PAID,2026-11-22T02:01:40.183265Z
+1.0,PRODUCT,better-auth.com,https://better-auth.com/pricing,Better Auth,FREEMIUM,2026-11-22T02:01:41.351056Z
+1.0,PRODUCT,silkchart.com,https://www.silkchart.com/pricing,SilkChart,FREEMIUM,2026-11-22T02:01:41.391884Z
+1.0,PRODUCT,alexcodes.app,https://www.alexcodes.app/pricing,Alex,PAID,2026-11-22T02:01:41.506217Z
+1.0,PRODUCT,quilt.bio,https://www.quilt.bio/pricing,Quilt Data,PAID,2026-11-22T02:01:41.706348Z
+1.0,PRODUCT,scanbase.com,https://www.scanbase.com/pricing,Scanbase,PAID,2026-11-22T02:01:41.812883Z
+1.0,PRODUCT,alloy.app,https://alloy.app/pricing,Alloy,FREEMIUM,2026-11-22T02:01:41.981737Z
+1.0,PRODUCT,gecko.security,https://www.gecko.security/pricing,Gecko Security,FREEMIUM,2026-11-22T02:01:42.154743Z
+1.0,PRODUCT,openscaffold.ai,https://openscaffold.ai/pricing,OpenScaffold,FREE,2026-11-22T02:01:42.975984Z
+1.0,PRODUCT,influxdata.com,https://www.influxdata.com/influxdb-pricing/,InfluxData,FREEMIUM,2026-11-22T02:01:43.729479Z
+1.0,PRODUCT,kugelaudio.com,https://www.kugelaudio.com/en/pricing,KugelAudio,PAID,2026-11-22T02:01:44.615811Z
+1.0,PRODUCT,vibekanban.com,https://vibekanban.com/pricing,Vibe Kanban,FREEMIUM,2026-11-22T02:01:44.882465Z
+1.0,PRODUCT,auravision.ai,https://auravision.ai/pricing/,Aura Vision,FREEMIUM,2026-11-22T02:01:45.756698Z
+1.0,PRODUCT,penciled.com,https://www.penciled.com/pricing,Penciled,PAID,2026-11-22T02:01:45.989281Z
+1.0,PRODUCT,libra.exla.ai,https://libra.exla.ai/pricing,Exla,PAID,2026-11-22T02:01:46.596606Z
+1.0,PRODUCT,agentphone.ai,https://agentphone.ai/pricing,AgentPhone,FREEMIUM,2026-11-22T02:01:46.616499Z
+1.0,PRODUCT,blaze.money,https://blaze.money/pricing,Blaze,PAID,2026-11-22T02:01:46.759034Z
+1.0,PRODUCT,every.io,https://www.every.io/pricing,Every,PAID,2026-11-22T02:01:47.312212Z
+1.0,PRODUCT,keepertax.com,https://www.keepertax.com/pricing,Keeper,PAID,2026-11-22T02:01:47.717386Z
+1.0,PRODUCT,infeedo.ai,https://www.infeedo.ai/pricing,inFeedo AI,ENTERPRISE,2026-11-22T02:01:48.521274Z
+1.0,PRODUCT,git.cafe,https://git.cafe/pricing,GitCafe,FREEMIUM,2026-11-22T02:01:48.555054Z
+1.0,PRODUCT,credal.ai,https://credal.ai/pricing,Credal.ai,ENTERPRISE,2026-11-22T02:01:49.037583Z
+1.0,PRODUCT,getadri.ai,https://www.getadri.ai/pricing,Adri AI,FREEMIUM,2026-11-22T02:01:49.477681Z
+1.0,PRODUCT,willowvoice.com,https://willowvoice.com/pricing,Willow,FREEMIUM,2026-11-22T02:01:49.559968Z
+1.0,PRODUCT,lightsprint.ai,https://lightsprint.ai/pricing,LightSprint,FREEMIUM,2026-11-22T02:01:49.580013Z
+1.0,PRODUCT,massdriver.cloud,https://www.massdriver.cloud/pricing,Massdriver,PAID,2026-11-22T02:01:51.037993Z
+1.0,PRODUCT,upsolve.ai,https://upsolve.ai/pricing,Upsolve AI,FREEMIUM,2026-11-22T02:01:51.068253Z
+1.0,PRODUCT,mindshub.ai,https://mindshub.ai/pricing,MindsDB,FREEMIUM,2026-11-22T02:01:51.221096Z
+1.0,PRODUCT,averyiq.com,https://averyiq.com/pricing,AveryIQ,PAID,2026-11-22T02:01:51.323040Z
+1.0,PRODUCT,interfaze.ai,https://interfaze.ai/pricing,Interfaze,PAID,2026-11-22T02:01:52.060102Z
+1.0,PRODUCT,specific.dev,https://specific.dev/pricing,Specific,FREEMIUM,2026-11-22T02:01:52.552011Z
+1.0,PRODUCT,onlook.com,https://www.onlook.com/pricing,Onlook,FREEMIUM,2026-11-22T02:01:52.631442Z
+1.0,PRODUCT,thanksroger.com,https://www.thanksroger.com/pricing,ROGER,FREEMIUM,2026-11-22T02:01:53.414838Z
+1.0,PRODUCT,trelium.com,https://www.trelium.com/pricing,Trelium,PAID,2026-11-22T02:01:53.529713Z
+1.0,PRODUCT,meetriver.com,https://meetriver.com/pricing,River,FREEMIUM,2026-11-22T02:01:54.253522Z
+1.0,PRODUCT,giveffect.com,https://www.giveffect.com/pricing,Giveffect,FREEMIUM,2026-11-22T02:01:54.557482Z
+1.0,PRODUCT,opencall.ai,https://opencall.ai/pricing,Opencall,PAID,2026-11-22T02:01:54.908800Z
+1.0,PRODUCT,idemeum.com,https://www.idemeum.com/pricing,idemeum,FREEMIUM,2026-11-22T02:01:55.039797Z
+1.0,PRODUCT,getveles.com,http://www.getveles.com/pricing,Veles,FREEMIUM,2026-11-22T02:01:55.065139Z
+1.0,PRODUCT,databuddy.cc,https://www.databuddy.cc/pricing,Databuddy,FREEMIUM,2026-11-22T02:01:55.400293Z
+1.0,PRODUCT,speko.com,https://speko.com/pricing,Speko,FREEMIUM,2026-11-22T02:01:55.428320Z
+1.0,PRODUCT,confident-ai.com,https://www.confident-ai.com/pricing,Confident AI,FREEMIUM,2026-11-22T02:01:55.465876Z
+1.0,PRODUCT,replo.app,https://www.replo.app/pricing,Replo,FREEMIUM,2026-11-22T02:01:55.860534Z
+1.0,PRODUCT,flashdrive.space,https://flashdrive.space/pricing/,FlashDrive,FREEMIUM,2026-11-22T02:01:56.056735Z
+1.0,PRODUCT,namesandfaces.com,https://www.namesandfaces.com/pricing,Names & Faces,PAID,2026-11-22T02:01:56.451270Z
+1.0,PRODUCT,front.com,https://front.com/pricing,Front,PAID,2026-11-22T02:01:57.440318Z
+1.0,PRODUCT,reticular.com,https://reticular.com/pricing,Reticular,PAID,2026-11-22T02:01:57.502305Z
+1.0,PRODUCT,axolo.co,https://axolo.co/pricing,Axolo,PAID,2026-11-22T02:01:57.629898Z
+1.0,PRODUCT,voicepanel.com,https://www.voicepanel.com/pricing,Voicepanel,FREEMIUM,2026-11-22T02:01:58.383340Z
+1.0,PRODUCT,sailsjs.com,https://sailsjs.com/flagship/plans,Sails,PAID,2026-11-22T02:01:58.495292Z
+1.0,PRODUCT,type.ai,https://type.ai/pricing,Type,FREEMIUM,2026-11-22T02:01:58.961944Z
+1.0,PRODUCT,whaly.io,https://whaly.io/en-us/pricing,Whaly,ENTERPRISE,2026-11-22T02:01:58.987140Z
+1.0,PRODUCT,truevault.com,https://www.truevault.com/pricing,TrueVault,PAID,2026-11-22T02:01:59.211660Z
+1.0,PRODUCT,navattic.com,https://www.navattic.com/pricing,Navattic,FREEMIUM,2026-11-22T02:01:59.253190Z
+1.0,PRODUCT,close.com,https://close.com/pricing,Close,FREEMIUM,2026-11-22T02:01:59.827268Z
+1.0,PRODUCT,screenleap.com,https://www.screenleap.com/pricing,Screenleap,PAID,2026-11-22T02:02:00.218856Z
+1.0,PRODUCT,onesignal.com,https://onesignal.com/pricing,OneSignal,FREEMIUM,2026-11-22T02:02:00.689310Z
+1.0,PRODUCT,archbee.com,https://www.archbee.com/pricing,Archbee,PAID,2026-11-22T02:02:01.019883Z
+1.0,PRODUCT,usecentralize.com,https://www.usecentralize.com/pricing,Centralize,FREEMIUM,2026-11-22T02:02:01.349438Z
+1.0,PRODUCT,jasper.ai,https://www.jasper.ai/pricing,Jasper,PAID,2026-11-22T02:02:01.449693Z
+1.0,PRODUCT,magicpatterns.com,https://www.magicpatterns.com/pricing,Magic Patterns,FREEMIUM,2026-11-22T02:02:01.890212Z
+1.0,PRODUCT,infisical.com,https://infisical.com/pricing,Infisical,FREEMIUM,2026-11-22T02:02:02.100860Z
+1.0,PRODUCT,cekura.ai,https://www.cekura.ai/pricing,Cekura,FREEMIUM,2026-11-22T02:02:02.144623Z
+1.0,PRODUCT,parrotapp.com,https://www.parrotapp.com/pricing,Parrot,FREEMIUM,2026-11-22T02:02:02.522386Z
+1.0,PRODUCT,biorender.com,https://www.biorender.com/pricing,BioRender,FREEMIUM,2026-11-22T02:02:02.783776Z
+1.0,PRODUCT,getthera.com,https://getthera.com/pricing,Thera,PAID,2026-11-22T02:02:02.894270Z
+1.0,PRODUCT,zeroheight.com,https://zeroheight.com/pricing/,zeroheight,FREEMIUM,2026-11-22T02:02:03.534941Z
+1.0,PRODUCT,juicebox.ai,https://juicebox.ai/pricing,Juicebox,FREEMIUM,2026-11-22T02:02:04.256187Z
+1.0,PRODUCT,airworkhq.com,https://www.airworkhq.com/pricing,Airwork,PAID,2026-11-22T02:02:04.659879Z
+1.0,PRODUCT,fly.io,https://fly.io/pricing/,Fly.io,FREEMIUM,2026-11-22T02:02:04.950014Z
+1.0,PRODUCT,superserve.ai,https://www.superserve.ai/pricing/,Superserve,PAID,2026-11-22T02:02:05.507531Z
+1.0,PRODUCT,runharbor.com,https://runharbor.com/pricing,Harbor,PAID,2026-11-22T02:02:05.604376Z
+1.0,PRODUCT,customily.com,https://www.customily.com/pricing,Customily,PAID,2026-11-22T02:02:05.816759Z
+1.0,PRODUCT,brickanta.com,https://www.brickanta.com/pricing,Brickanta,PAID,2026-11-22T02:02:06.379394Z
+1.0,PRODUCT,lob.com,https://www.lob.com/pricing,Lob,FREEMIUM,2026-11-22T02:02:06.587322Z
+1.0,PRODUCT,zeropath.com,https://zeropath.com/pricing,ZeroPath,PAID,2026-11-22T02:02:06.925720Z
+1.0,PRODUCT,wasmer.io,https://wasmer.io/pricing,Wasmer,FREEMIUM,2026-11-22T02:02:07.499893Z
+1.0,PRODUCT,karatelabs.io,https://karatelabs.io/pricing,Karate,FREEMIUM,2026-11-22T02:02:07.576254Z
+1.0,PRODUCT,promptarmor.com,https://www.promptarmor.com/pricing,PromptArmor,FREE,2026-11-22T02:02:07.692059Z
+1.0,PRODUCT,combinely.ai,https://www.combinely.ai/pricing,Combinely,PAID,2026-11-22T02:02:07.754967Z
+1.0,PRODUCT,retellai.com,https://www.retellai.com/pricing,Retell AI,FREEMIUM,2026-11-22T02:02:07.923720Z
+1.0,PRODUCT,beam.cloud,https://www.beam.cloud/pricing,Beam,FREEMIUM,2026-11-22T02:02:08.086565Z
+1.0,PRODUCT,take.app,https://www.take.app/pricing,Take App,FREEMIUM,2026-11-22T02:02:08.128247Z
+1.0,PRODUCT,amboras.com,https://www.amboras.com/pricing,Amboras,PAID,2026-11-22T02:02:08.555957Z
+1.0,PRODUCT,speedscale.com,https://speedscale.com/pricing/,Speedscale,FREEMIUM,2026-11-22T02:02:08.690755Z
+1.0,PRODUCT,financialdatasets.ai,https://www.financialdatasets.ai/pricing,Financial Datasets,PAID,2026-11-22T02:02:08.776201Z
+1.0,PRODUCT,getversive.com,https://www.getversive.com/pricing,Versive,FREEMIUM,2026-11-22T02:02:08.869821Z
+1.0,PRODUCT,joincurrent.io,https://joincurrent.io/pricing,Current,FREEMIUM,2026-11-22T02:02:09.743856Z
+1.0,PRODUCT,signoz.io,https://signoz.io/pricing/,SigNoz,FREEMIUM,2026-11-22T02:02:10.518178Z
+1.0,PRODUCT,getdiana.com,https://www.getdiana.com/pricing,Diana,FREEMIUM,2026-11-22T02:02:10.586071Z
+1.0,PRODUCT,videogen.io,https://videogen.io/pricing,VideoGen,PAID,2026-11-22T02:02:10.615528Z
+1.0,PRODUCT,posthog.com,https://posthog.com/pricing,PostHog,FREEMIUM,2026-11-22T02:02:11.263042Z
+1.0,PRODUCT,flower.ai,https://flower.ai/pricing,Flower,PAID,2026-11-22T02:02:11.300721Z
+1.0,PRODUCT,depict.ai,https://depict.ai/pricing,Depict,PAID,2026-11-22T02:02:11.454621Z
+1.0,PRODUCT,silahq.com,https://silahq.com/pricing,Sila,FREEMIUM,2026-11-22T02:02:11.674353Z
+1.0,PRODUCT,mutinyhq.com,https://www.mutinyhq.com/pricing,Mutiny,FREEMIUM,2026-11-22T02:02:12.123646Z
+1.0,PRODUCT,buntinglabs.com,https://buntinglabs.com/pricing,Bunting,PAID,2026-11-22T02:02:12.443075Z
+1.0,PRODUCT,autumn.ai,https://www.autumn.ai/pricing,Autumn,FREEMIUM,2026-11-22T02:02:13.097044Z
+1.0,PRODUCT,aquavoice.com,https://aquavoice.com/pricing,Aqua Voice,FREEMIUM,2026-11-22T02:02:13.151966Z
+1.0,PRODUCT,plai.io,https://www.plai.io/pricing,Plai,FREEMIUM,2026-11-22T02:02:13.271670Z
+1.0,PRODUCT,rollstack.com,https://www.rollstack.com/pricing,Rollstack,PAID,2026-11-22T02:02:13.290084Z
+1.0,PRODUCT,fiber.ai,https://www.fiber.ai/pricing,Fiber AI,PAID,2026-11-22T02:02:13.539164Z
+1.0,PRODUCT,quivly.ai,https://www.quivly.ai/pricing,Quivly AI,PAID,2026-11-22T02:02:13.607559Z
+1.0,PRODUCT,controlseat.com,https://www.controlseat.com/pricing,Control Seat,ENTERPRISE,2026-11-22T02:02:13.883722Z
+1.0,PRODUCT,substack.com,https://substack.com/pricing,Substack,FREEMIUM,2026-11-22T02:02:14.167725Z
+1.0,PRODUCT,singlestore.com,https://www.singlestore.com/pricing/,SingleStore,FREEMIUM,2026-11-22T02:02:14.292715Z
+1.0,PRODUCT,paradev.com,https://paradev.com/pricing,Paradev (formerly Superset),FREEMIUM,2026-11-22T02:02:14.758944Z
+1.0,PRODUCT,cartage.ai,https://cartage.ai/pricing,Cartage,FREEMIUM,2026-11-22T02:02:14.971956Z
+1.0,PRODUCT,morphllm.com,https://www.morphllm.com/pricing,Morph,PAID,2026-11-22T02:02:15.036184Z
+1.0,PRODUCT,marqvision.com,https://www.marqvision.com/pricing,MarqVision,PAID,2026-11-22T02:02:15.116605Z
+1.0,PRODUCT,kino.ai,https://kino.ai/pricing,Kino AI,PAID,2026-11-22T02:02:15.164978Z
+1.0,PRODUCT,hexclave.com,https://www.hexclave.com/pricing,Hexclave,FREEMIUM,2026-11-22T02:02:15.998966Z
+1.0,PRODUCT,cloudchipr.com,https://cloudchipr.com/pricing,Cloudchipr,PAID,2026-11-22T02:02:16.221731Z
+1.0,PRODUCT,hive.co,https://www.hive.co/pricing,Hive,PAID,2026-11-22T02:02:16.243731Z
+1.0,PRODUCT,constructable.ai,https://constructable.ai/pricing,Constructable,PAID,2026-11-22T02:02:16.393440Z
+1.0,PRODUCT,middleware.io,https://middleware.io/pricing/,Middleware,FREEMIUM,2026-11-22T02:02:17.281668Z
+1.0,PRODUCT,rootly.com,https://rootly.com/pricing,Rootly,PAID,2026-11-22T02:02:17.342338Z
+1.0,PRODUCT,rippling.com,https://www.rippling.com/pricing,Rippling,PAID,2026-11-22T02:02:17.460013Z
+1.0,PRODUCT,bolna.ai,https://www.bolna.ai/pricing,Bolna AI,PAID,2026-11-22T02:02:17.506677Z
+1.0,PRODUCT,alterauth.com,https://alterauth.com/pricing/,Alter,FREEMIUM,2026-11-22T02:02:18.257947Z
+1.0,PRODUCT,tremi.ai,https://www.tremi.ai/pricing,Wattson Health,FREEMIUM,2026-11-22T02:02:18.908521Z
+1.0,PRODUCT,letterbook.ai,https://www.letterbook.ai/pricing,Letterbook,PAID,2026-11-22T02:02:19.050443Z
+1.0,PRODUCT,tryperdiem.com,https://tryperdiem.com/pricing,Per Diem,PAID,2026-11-22T02:02:20.588114Z
+1.0,PRODUCT,tryriot.com,https://tryriot.com/pricing/,Riot,PAID,2026-11-22T02:02:20.800177Z
+1.0,PRODUCT,moritzlegal.com,https://www.moritzlegal.com/pricing,Moritz,PAID,2026-11-22T02:02:21.103466Z
+1.0,PRODUCT,plane.com,https://plane.com/pricing,Plane,FREEMIUM,2026-11-22T02:02:21.228262Z
+1.0,PRODUCT,openlayer.com,https://www.openlayer.com/pricing,Openlayer,FREEMIUM,2026-11-22T02:02:21.332840Z
+1.0,PRODUCT,freestyle.sh,https://www.freestyle.sh/pricing,Freestyle,FREEMIUM,2026-11-22T02:02:21.437414Z
+1.0,PRODUCT,origami.chat,https://origami.chat/pricing,Origami,FREEMIUM,2026-11-22T02:02:21.638544Z
+1.0,PRODUCT,activepieces.com,https://www.activepieces.com/pricing,Activepieces,FREEMIUM,2026-11-22T02:02:21.910208Z
+1.0,PRODUCT,rivet.dev,https://rivet.dev/pricing/,Rivet,FREEMIUM,2026-11-22T02:02:22.162912Z
+1.0,PRODUCT,browser-use.com,https://browser-use.com/pricing,Browser Use,FREEMIUM,2026-11-22T02:02:22.558496Z
+1.0,PRODUCT,nango.dev,https://nango.dev/pricing,Nango,FREEMIUM,2026-11-22T02:02:23.235664Z
+1.0,PRODUCT,blink.new,https://blink.new/pricing,Blink,FREEMIUM,2026-11-22T02:02:23.517319Z
+1.0,PRODUCT,thetokencompany.com,https://thetokencompany.com/pricing,The Token,ENTERPRISE,2026-11-22T02:02:23.526584Z
+1.0,PRODUCT,avoice.co,https://www.avoice.co/pricing,Avoice,PAID,2026-11-22T02:02:23.578031Z
+1.0,PRODUCT,autosana.ai,https://autosana.ai/pricing,Autosana,FREEMIUM,2026-11-22T02:02:24.488783Z
+1.0,PRODUCT,multifactor.com,https://multifactor.com/pricing,Multifactor,FREEMIUM,2026-11-22T02:02:24.520486Z
+1.0,PRODUCT,ramani.io,https://www.ramani.io/pricing,Ramani,ENTERPRISE,2026-11-22T02:02:24.633115Z
+1.0,PRODUCT,inventive.ai,https://www.inventive.ai/inventive-ai-pricing,Inventive AI,PAID,2026-11-22T02:02:25.425541Z
+1.0,PRODUCT,loops.so,https://loops.so/pricing,Loops,FREEMIUM,2026-11-22T02:02:25.855944Z
+1.0,PRODUCT,basedash.com,https://www.basedash.com/pricing,Basedash,PAID,2026-11-22T02:02:27.721091Z
+1.0,PRODUCT,okteto.com,https://www.okteto.com/pricing/,Okteto,FREEMIUM,2026-11-22T02:02:28.042699Z
+1.0,PRODUCT,fondo.com,https://fondo.com/pricing,Fondo,PAID,2026-11-22T02:02:28.272281Z
+1.0,PRODUCT,motives.ai,https://motives.ai/use-cases/pricing-value-testing,Motives,ENTERPRISE,2026-11-22T02:02:28.288651Z
+1.0,PRODUCT,scape.app,https://scape.app/pricing,Scape,FREEMIUM,2026-11-22T02:02:28.303946Z
+1.0,PRODUCT,upstream.do,https://www.upstream.do/pricing,Upstream,FREEMIUM,2026-11-22T02:02:29.080443Z
+1.0,PRODUCT,momentic.ai,https://momentic.ai/pricing,Momentic,FREEMIUM,2026-11-22T02:02:29.141372Z
+1.0,PRODUCT,hyperbound.ai,https://www.hyperbound.ai/pricing-b,Hyperbound,FREEMIUM,2026-11-22T02:02:29.172874Z
+1.0,PRODUCT,tavus.io,https://www.tavus.io/pricing,Tavus,FREEMIUM,2026-11-22T02:02:29.556828Z
+1.0,PRODUCT,cubic.dev,https://www.cubic.dev/pricing-plans,cubic,PAID,2026-11-22T02:02:29.774011Z
+1.0,PRODUCT,afternoon.co,https://www.afternoon.co/pricing,Afternoon.co,PAID,2026-11-22T02:02:29.788271Z
+1.0,PRODUCT,bubblelab.ai,https://bubblelab.ai/pricing,Bubble,PAID,2026-11-22T02:02:30.318245Z
+1.0,PRODUCT,dailybot.com,https://www.dailybot.com/pricing/,Dailybot,FREEMIUM,2026-11-22T02:02:30.936637Z
+1.0,PRODUCT,sherloqdata.io,https://sherloqdata.io/pricing,Sherloq,FREEMIUM,2026-11-22T02:02:31.116775Z
+1.0,PRODUCT,openscale.so,https://openscale.so/pricing,OpenScale,PAID,2026-11-22T02:02:31.152142Z
+1.0,PRODUCT,blacksmith.sh,https://www.blacksmith.sh/pricing,Blacksmith,FREEMIUM,2026-11-22T02:02:31.188611Z
+1.0,PRODUCT,pally.com,https://pally.com/pricing,Pally,FREEMIUM,2026-11-22T02:02:31.216899Z
+1.0,PRODUCT,dayflow.so,https://www.dayflow.so/pricing/,Dayflow,FREEMIUM,2026-11-22T02:02:31.459689Z
+1.0,PRODUCT,dyneti.com,https://dyneti.com/plans,Dyneti,FREEMIUM,2026-11-22T02:02:31.790507Z
+1.0,PRODUCT,chatwoot.com,https://www.chatwoot.com/pricing,Chatwoot,FREEMIUM,2026-11-22T02:02:32.061987Z
+1.0,PRODUCT,obsessiondb.com,https://obsessiondb.com/pricing,ObsessionDB,FREEMIUM,2026-11-22T02:02:32.213445Z
+1.0,PRODUCT,heyhyper.ai,https://heyhyper.ai/pricing,Hyper,FREEMIUM,2026-11-22T02:02:32.238154Z
+1.0,PRODUCT,hyperbrowser.ai,https://www.hyperbrowser.ai/pricing,Hyperbrowser,FREEMIUM,2026-11-22T02:02:32.257645Z
+1.0,PRODUCT,lopus.ai,https://lopus.ai/pricing,Lopus,FREEMIUM,2026-11-22T02:02:32.618656Z
+1.0,PRODUCT,superbar.ai,https://superbar.ai/pricing,Superbar,PAID,2026-11-22T02:02:32.767836Z
+1.0,PRODUCT,dexto.ai,https://www.dexto.ai/pricing/,Dexto,FREEMIUM,2026-11-22T02:02:32.788909Z
+1.0,PRODUCT,hatchet.run,https://hatchet.run/pricing,Hatchet,FREEMIUM,2026-11-22T02:02:33.144465Z
+1.0,PRODUCT,promptless.ai,https://promptless.ai/pricing,Promptless,PAID,2026-11-22T02:02:33.469966Z
+1.0,PRODUCT,intunedhq.com,https://intunedhq.com/pricing,Intuned,FREEMIUM,2026-11-22T02:02:34.002635Z
+1.0,PRODUCT,getagency.com,https://getagency.com/lp/express-comply-pricing,Agency,PAID,2026-11-22T02:02:34.036413Z
+1.0,PRODUCT,orgorg.com,https://www.orgorg.com/pricing,OrgOrg,FREEMIUM,2026-11-22T02:02:34.785601Z
+1.0,PRODUCT,typa.ai,https://www.typa.ai/pricing,Typa,FREEMIUM,2026-11-22T02:02:35.515568Z
+1.0,PRODUCT,thecontextcompany.com,https://www.thecontextcompany.com/pricing,The Context,PAID,2026-11-22T02:02:35.594445Z
+1.0,PRODUCT,antinuous.com,https://antinuous.com/pricing,Antinuous,FREEMIUM,2026-11-22T02:02:36.236602Z
+1.0,PRODUCT,fogbender.com,https://fogbender.com/pricing,Fogbender,FREEMIUM,2026-11-22T02:02:36.867560Z
+1.0,PRODUCT,langdock.com,https://langdock.com/pricing,Langdock,FREEMIUM,2026-11-22T02:02:37.007050Z
+1.0,PRODUCT,superunit.com,https://www.superunit.com/pricing,Superunit,PAID,2026-11-22T02:02:37.619958Z
+1.0,PRODUCT,invofox.com,https://www.invofox.com/en/pricing/,Invofox,FREEMIUM,2026-11-22T02:02:38.348105Z
+1.0,PRODUCT,verihubs.com,https://verihubs.com/pricing/,Verihubs,ENTERPRISE,2026-11-22T02:02:38.380588Z
+1.0,PRODUCT,exa.ai,https://exa.ai/pricing,Exa,PAID,2026-11-22T02:02:38.413870Z
+1.0,PRODUCT,usehaystack.io,https://www.usehaystack.io/pricing,Haystack,PAID,2026-11-22T02:02:38.692703Z
+1.0,PRODUCT,captain.dev,https://www.captain.dev/pricing,Captain,FREEMIUM,2026-11-22T02:02:39.420900Z
+1.0,PRODUCT,inspectmind.ai,https://www.inspectmind.ai/pricing,InspectMind AI,FREEMIUM,2026-11-22T02:02:39.448783Z
+1.0,PRODUCT,theo.site,https://theo.site/pricing,Theo,FREEMIUM,2026-11-22T02:02:39.640785Z
+1.0,PRODUCT,coval.ai,https://www.coval.ai/pricing,Coval,PAID,2026-11-22T02:02:39.791965Z
+1.0,PRODUCT,quickchat.ai,https://quickchat.ai/pricing,Quickchat AI,FREEMIUM,2026-11-22T02:02:39.866721Z
+1.0,PRODUCT,rystic.ai,https://www.rystic.ai/pricing,Rystic,FREEMIUM,2026-11-22T02:02:40.063255Z
+1.0,PRODUCT,myturnstone.ai,https://myturnstone.ai/plan,Turnstone,FREEMIUM,2026-11-22T02:02:40.395647Z
+1.0,PRODUCT,graphide.com,https://graphide.com/pricing/,Graphide,PAID,2026-11-22T02:02:40.751887Z
+1.0,PRODUCT,aviator.co,https://www.aviator.co/pricing,Aviator,FREEMIUM,2026-11-22T02:02:40.877277Z
+1.0,PRODUCT,skyhook.io,https://www.skyhook.io/pricing,Skyhook,FREEMIUM,2026-11-22T02:02:40.985256Z
+1.0,PRODUCT,volaren.ai,https://www.volaren.ai/pricing,Volaren,FREEMIUM,2026-11-22T02:02:41.409990Z
+1.0,PRODUCT,getthematic.com,https://getthematic.com/product/plan-and-pricing,Thematic,PAID,2026-11-22T02:02:41.787353Z
+1.0,PRODUCT,vimcal.com,https://www.vimcal.com/pricing,Vimcal,PAID,2026-11-22T02:02:41.931543Z
+1.0,PRODUCT,bitboard.work,https://bitboard.work/pricing,BitBoard,FREEMIUM,2026-11-22T02:02:41.937609Z
+1.0,PRODUCT,mthsense.com,https://mthsense.com/pricing,Mth Sense,PAID,2026-11-22T02:02:42.515145Z
+1.0,PRODUCT,writesonic.com,https://writesonic.com/pricing,Writesonic,PAID,2026-11-22T02:02:42.646021Z
+1.0,PRODUCT,runpulse.com,https://www.runpulse.com/pricing,Pulse,ENTERPRISE,2026-11-22T02:02:42.711326Z
+1.0,PRODUCT,blog.mergent.co,https://blog.mergent.co/why-our-new-pricing-model-is-great-for-growing-startups,Mergent,FREEMIUM,2026-11-22T02:02:42.918758Z
+1.0,PRODUCT,checkr.com,https://checkr.com/pricing,Checkr,PAID,2026-11-22T02:02:43.204549Z
+1.0,PRODUCT,hemut.com,https://hemut.com/pricing,Hemut,FREEMIUM,2026-11-22T02:02:43.275133Z
+1.0,PRODUCT,amika.dev,https://www.amika.dev/pricing,Amika,FREEMIUM,2026-11-22T02:02:43.296767Z
+1.0,PRODUCT,tryhelium.com,https://tryhelium.com/pricing,Helium,FREEMIUM,2026-11-22T02:02:43.534091Z
+1.0,PRODUCT,phonely.ai,https://www.phonely.ai/pricing,Phonely,PAID,2026-11-22T02:02:44.064265Z
+1.0,PRODUCT,freebuff.com,https://freebuff.com/plans,Freebuff,FREEMIUM,2026-11-22T02:02:44.162771Z
+1.0,PRODUCT,hightouch.com,https://hightouch.com/pricing,Hightouch,FREE,2026-11-22T02:02:44.339209Z
+1.0,PRODUCT,lamin.ai,https://lamin.ai/pricing,Lamin,FREEMIUM,2026-11-22T02:02:44.386885Z
+1.0,PRODUCT,siftly.ai,https://siftly.ai/pricing,Siftly,FREEMIUM,2026-11-22T02:02:44.438151Z
+1.0,PRODUCT,getcho.app,https://getcho.app/pricing/,Getcho,FREEMIUM,2026-11-22T02:02:44.463502Z
+1.0,PRODUCT,evidence.dev,https://evidence.dev/pricing,Evidence,PAID,2026-11-22T02:02:44.791704Z
+1.0,PRODUCT,clidey.com,https://clidey.com/pricing,Clidey,ENTERPRISE,2026-11-22T02:02:44.800718Z
+1.0,PRODUCT,getunbound.ai,https://www.getunbound.ai/pricing,Unbound,PAID,2026-11-22T02:02:44.817313Z
+1.0,PRODUCT,feldy.ai,https://feldy.ai/prcing/ai-platform-pricing,Feldy,PAID,2026-11-22T02:02:45.042116Z
+1.0,PRODUCT,novaflow.ai,https://www.novaflow.ai/pricing,Novaflow,FREEMIUM,2026-11-22T02:02:45.363269Z
+1.0,PRODUCT,readbean.app,https://readbean.app/pricing,Read Bean,PAID,2026-11-22T02:02:45.552704Z
+1.0,PRODUCT,healthharbor.co,https://healthharbor.co/pricing,Health Harbor,PAID,2026-11-22T02:02:46.496535Z
+1.0,PRODUCT,heroui.com,https://heroui.com/pricing,HeroUI,PAID,2026-11-22T02:02:46.626255Z
+1.0,PRODUCT,sigmanticai.com,https://www.sigmanticai.com/pricing.html,SigmanticAI,FREEMIUM,2026-11-22T02:02:46.683378Z
+1.0,PRODUCT,paradigmai.com,https://paradigmai.com/pricing/,Paradigm,PAID,2026-11-22T02:02:46.814305Z
+1.0,PRODUCT,mailwarm.com,https://www.mailwarm.com/pricing,Mailwarm,PAID,2026-11-22T02:02:46.977688Z
+1.0,PRODUCT,tinfoil.sh,https://tinfoil.sh/pricing,Tinfoil,PAID,2026-11-22T02:02:47.151826Z
+1.0,PRODUCT,archil.com,https://archil.com/pricing,Archil,FREEMIUM,2026-11-22T02:02:48.415118Z
+1.0,PRODUCT,ecommerce.fastshot.ai,https://ecommerce.fastshot.ai/pricing,Fastshot,FREEMIUM,2026-11-22T02:06:35.089689Z
+1.0,PRODUCT,plexe.ai,https://plexe.ai/pricing,Plexe,ENTERPRISE,2026-11-22T02:06:59.626490Z
+1.0,PRODUCT,datasaur.ai,https://datasaur.ai/pricing,Datasaur,PAID,2026-11-22T02:07:05.390562Z
+1.0,PRODUCT,humanly.io,https://www.humanly.io/pricing,Humanly,ENTERPRISE,2026-11-22T02:07:08.909729Z
+1.0,PRODUCT,omnistrate.com,https://omnistrate.com/pricing,Omnistrate,FREEMIUM,2026-11-22T02:07:30.849379Z
+1.0,PRODUCT,paasa.com,https://paasa.com/pricing,Paasa,FREEMIUM,2026-11-22T02:14:37.314107Z
+1.0,PRODUCT,nomod.com,https://nomod.com/en-ae/pricing,Nomod,ENTERPRISE,2026-11-22T02:14:43.334547Z
+1.0,PRODUCT,medcrypt.com,https://www.medcrypt.com/pricing,MedCrypt,PAID,2026-11-22T02:14:44.062132Z
+1.0,PRODUCT,lifeat.com,https://lifeat.com/pricing,LifeAt,FREEMIUM,2026-11-22T02:14:45.488971Z
+1.0,PRODUCT,newmoneycompany.com,https://newmoneycompany.com/pricing,The New Money,FREEMIUM,2026-11-22T02:14:46.219000Z
+1.0,PRODUCT,givefront.com,https://givefront.com/pricing,Givefront,FREEMIUM,2026-11-22T02:14:46.613463Z
+1.0,PRODUCT,lingt.com,https://www.lingt.com/pricing/,Lingt,PAID,2026-11-22T02:14:48.391357Z
+1.0,PRODUCT,upflow.io,https://upflow.io/pricing,Upflow,FREEMIUM,2026-11-22T02:14:51.451299Z
+1.0,PRODUCT,razorpay.com,https://razorpay.com/pricing/,Razorpay,FREEMIUM,2026-11-22T02:14:51.519117Z
+1.0,PRODUCT,stripe.com,https://stripe.com/in/pricing,Stripe,PAID,2026-11-22T02:14:51.630692Z
+1.0,PRODUCT,infinite.net,https://infinite.net/pricing,Infinite,PAID,2026-11-22T02:14:52.499066Z
+1.0,PRODUCT,xpaycheckout.com,https://www.xpaycheckout.com/pricing,xPay,FREEMIUM,2026-11-22T02:14:53.275902Z
+1.0,PRODUCT,yougotlistings.com,https://www.yougotlistings.com/pricing,You Got Listings,FREEMIUM,2026-11-22T02:14:53.587297Z
+1.0,PRODUCT,verto.co,https://verto.co/pricing/,Verto,FREEMIUM,2026-11-22T02:14:54.033962Z
+1.0,PRODUCT,slash.com,https://www.slash.com/pricing,Slash,FREEMIUM,2026-11-22T02:14:54.206445Z
+1.0,PRODUCT,bitstack-app.com,https://www.bitstack-app.com/en-FR/pricing,Bitstack,FREEMIUM,2026-11-22T02:14:57.398847Z
+1.0,PRODUCT,culdesac.com,https://culdesac.com/pricing,Culdesac,PAID,2026-11-22T02:14:57.789463Z
+1.0,PRODUCT,withjoy.com,https://withjoy.com/pricing/,Joy,FREEMIUM,2026-11-22T02:15:00.722341Z
+1.0,PRODUCT,agentcard.com,https://agentcard.com/pricing,Agentcard,FREEMIUM,2026-11-22T02:15:01.851467Z
+1.0,PRODUCT,gather.town,https://www.gather.town/pricing,Gather,PAID,2026-11-22T02:15:04.038627Z
+1.0,PRODUCT,carbonfact.com,https://www.carbonfact.com/pricing,Carbonfact,ENTERPRISE,2026-11-22T02:15:05.044042Z
+1.0,PRODUCT,opalitehealth.com,https://opalitehealth.com/pricing,Opalite Health,PAID,2026-11-22T02:15:06.412952Z
+1.0,PRODUCT,getdex.com,https://getdex.com/pricing/,Dex,PAID,2026-11-22T02:15:06.837500Z
+1.0,PRODUCT,alpaca.markets,https://alpaca.markets/pricing,Alpaca,ENTERPRISE,2026-11-22T02:15:07.140508Z
+1.0,PRODUCT,cashflowportal.com,https://www.cashflowportal.com/pricing,Cash Flow Portal,PAID,2026-11-22T02:15:07.950251Z
+1.0,PRODUCT,healthtech1.uk,https://www.healthtech1.uk/pricing,Healthtech 1,PAID,2026-11-22T02:15:11.450416Z
+1.0,PRODUCT,boyahq.com,https://www.boyahq.com/pricing,Boya,FREEMIUM,2026-11-22T02:15:15.911206Z
+1.0,PRODUCT,hubble.com,https://hubble.com/pricing,Hubble Network,FREEMIUM,2026-11-22T02:15:16.283406Z
+1.0,PRODUCT,joonhealth.co,https://joonhealth.co/pricing,Joon Health,PAID,2026-11-22T02:15:17.782832Z
+1.0,PRODUCT,usedots.com,https://usedots.com/pricing/,Dots 💸,FREEMIUM,2026-11-22T02:15:18.104184Z
+1.0,PRODUCT,medplum.com,https://www.medplum.com/pricing,Medplum,FREEMIUM,2026-11-22T02:15:19.343673Z
+1.0,PRODUCT,tryduplo.com,https://tryduplo.com/pricing/,Duplo,FREEMIUM,2026-11-22T02:15:22.179684Z
+1.0,PRODUCT,nsave.com,https://www.nsave.com/plans,nsave,FREEMIUM,2026-11-22T02:15:22.695857Z
+1.0,PRODUCT,govly.com,https://www.govly.com/pricing,Govly,FREE,2026-11-22T02:15:26.919651Z
+1.0,PRODUCT,alude.com.br,https://www.alude.com.br/pricing,Alude,PAID,2026-11-22T02:15:27.473602Z
+1.0,PRODUCT,plumter.com,https://plumter.com/pricing/,Plumter,FREEMIUM,2026-11-22T02:15:29.211239Z
+1.0,PRODUCT,certainlyglow.com,https://certainlyglow.com/pricing,Certainly Health,PAID,2026-11-22T02:15:30.196211Z
+1.0,PRODUCT,ruvo.com,https://ruvo.com/pricing,Ruvo,PAID,2026-11-22T02:15:31.426926Z
+1.0,PRODUCT,yoshimobility.com,https://www.yoshimobility.com/pricing/,Yoshi Mobility,ENTERPRISE,2026-11-22T02:15:38.243209Z
+1.0,PRODUCT,snabfinance.com,https://snabfinance.com/pricing/,SNAB,ENTERPRISE,2026-11-22T02:15:40.012959Z
+1.0,PRODUCT,livelyme.com,https://livelyme.com/pricing,Lively,FREEMIUM,2026-11-22T02:15:41.800940Z
+1.0,PRODUCT,heroiclabs.com,https://heroiclabs.com/pricing/,Heroic,PAID,2026-11-22T02:15:42.769461Z
+1.0,PRODUCT,business.tab.travel,https://business.tab.travel/pricing?cc=in,Tab,PAID,2026-11-22T02:15:43.744198Z
+1.0,PRODUCT,answerthis.io,https://answerthis.io/our-pricing,AnswerThis,FREEMIUM,2026-11-22T02:15:46.039863Z
+1.0,PRODUCT,web.cuanto.app,https://web.cuanto.app/en/pricing,Cuanto,PAID,2026-11-22T02:15:48.488725Z
+1.0,PRODUCT,exploreneon.com,https://www.exploreneon.com/store/plans/?lead=1,Bentocart,FREEMIUM,2026-11-22T02:15:49.391933Z
+1.0,PRODUCT,score.vestris.ai,https://score.vestris.ai/pricing,Vestris,PAID,2026-11-22T02:15:49.883186Z
+1.0,PRODUCT,mineflow.ai,https://mineflow.ai/pricing,Mineflow,FREEMIUM,2026-11-22T02:15:51.268868Z
+1.0,PRODUCT,aspireapp.com,https://aspireapp.com/en-sg/pricing,Aspire,FREEMIUM,2026-11-22T02:15:53.369783Z
+1.0,PRODUCT,okcredit.in,https://okcredit.in/pricing,OkCredit,FREEMIUM,2026-11-22T02:15:57.021819Z
+1.0,PRODUCT,junction.com,https://www.junction.com/pricing,Junction,PAID,2026-11-22T02:16:04.143865Z
+1.0,PRODUCT,pelagohealth.com,https://www.pelagohealth.com/pricing/,Pelago,FREEMIUM,2026-11-22T02:16:05.534503Z
+1.0,PRODUCT,roofr.com,https://roofr.com/pricing,Roofr,FREEMIUM,2026-11-22T02:16:07.669416Z
+1.0,PRODUCT,joinreframeapp.com,https://www.joinreframeapp.com/help/pricing-and-subscription,Reframe,PAID,2026-11-22T02:16:07.939283Z
+1.0,PRODUCT,starkbank.com,https://starkbank.com/pricing,STARK BANK,FREEMIUM,2026-11-22T02:16:08.400591Z
+1.0,PRODUCT,arpari.com,https://www.arpari.com/pricing,Arpari,PAID,2026-11-22T02:16:10.837345Z
+1.0,PRODUCT,docs.shorpay.com,https://docs.shorpay.com/pricing,Shor,PAID,2026-11-22T02:16:11.819814Z
+1.0,PRODUCT,pillar.io,https://www.pillar.io/pricing,Pillar,PAID,2026-11-22T02:16:13.157900Z
+1.0,PRODUCT,blindpay.com,https://blindpay.com/pricing,BlindPay,PAID,2026-11-22T02:16:13.199936Z
+1.0,PRODUCT,hellosunset.com,https://www.hellosunset.com/pricing,Sunset,PAID,2026-11-22T02:16:14.819577Z
+1.0,PRODUCT,quartzy.com,https://www.quartzy.com/pricing,Quartzy,FREEMIUM,2026-11-22T02:16:16.699409Z
+1.0,PRODUCT,tilt.bike,https://www.tilt.bike/pricing,Tilt,PAID,2026-11-22T02:16:17.103225Z
+1.0,PRODUCT,morf.health,https://www.morf.health/pricing,Morf Health,PAID,2026-11-22T02:16:17.785249Z
+1.0,PRODUCT,plan0.ai,https://plan0.ai/pricing,PLAN0 AI,FREEMIUM,2026-11-22T02:16:18.025221Z
+1.0,PRODUCT,getcleva.com,https://www.getcleva.com/pricing,Cleva,FREEMIUM,2026-11-22T02:16:18.446760Z
+1.0,PRODUCT,dripos.com,https://www.dripos.com/pricing,Dripos,PAID,2026-11-22T02:16:18.728629Z
+1.0,PRODUCT,toughcommerce.com,https://www.toughcommerce.com/pricing,Tough Commerce,ENTERPRISE,2026-11-22T02:16:19.417405Z
+1.0,PRODUCT,hitpayapp.com,https://hitpayapp.com/pricing,HitPay,FREEMIUM,2026-11-22T02:16:22.555414Z
+1.0,PRODUCT,akutehealth.com,https://www.akutehealth.com/pricing,Akute Health,PAID,2026-11-22T02:16:27.355739Z
+1.0,PRODUCT,lucidbots.com,https://www.lucidbots.com/pricing,Lucid Bots,FREEMIUM,2026-11-22T02:16:27.496486Z
+1.0,PRODUCT,voiceos.com,https://www.voiceos.com/pricing,VoiceOS,FREEMIUM,2026-11-22T02:16:28.219498Z
+1.0,PRODUCT,outtalent.com,https://outtalent.com/pricing,Outtalent,PAID,2026-11-22T02:16:28.500355Z
+1.0,PRODUCT,gethevn.com,https://gethevn.com/pricing,HEVN,FREEMIUM,2026-11-22T02:16:30.181544Z
+1.0,PRODUCT,teachwithkoala.com,https://www.teachwithkoala.com/pricing,Koala,FREEMIUM,2026-11-22T02:16:30.587649Z
+1.0,PRODUCT,trykarat.com,https://www.trykarat.com/pricing,Karat Financial,FREEMIUM,2026-11-22T02:16:30.934751Z
+1.0,PRODUCT,tremendous.com,https://www.tremendous.com/pricing/,Tremendous,FREEMIUM,2026-11-22T02:16:32.065806Z
+1.0,PRODUCT,bloomtext.com,https://www.bloomtext.com/pricing/,BloomAPI,FREEMIUM,2026-11-22T02:16:35.018810Z
+1.0,PRODUCT,vendoo.co,https://vendoo.co/pricing,Vendoo,PAID,2026-11-22T02:16:40.300454Z
+1.0,PRODUCT,bolsterbuilt.com,https://www.bolsterbuilt.com/pricing,Bolster,FREEMIUM,2026-11-22T02:16:40.751033Z
+1.0,PRODUCT,guesty.com,https://www.guesty.com/pricing/,Guesty,PAID,2026-11-22T02:16:40.988031Z
+1.0,PRODUCT,osmind.org,https://www.osmind.org/pricing,Osmind,PAID,2026-11-22T02:16:43.584351Z
+1.0,PRODUCT,memberstack.com,https://www.memberstack.com/pricing,Memberstack,FREEMIUM,2026-11-22T02:16:44.585468Z
+1.0,PRODUCT,loombotic.com,https://loombotic.com/pricing,Loombotic,ENTERPRISE,2026-11-22T02:16:44.881097Z
+1.0,PRODUCT,snackpass.co,https://www.snackpass.co/forbrands/pricing,Snackpass,FREEMIUM,2026-11-22T02:16:45.216275Z
+1.0,PRODUCT,snaptrade.com,https://snaptrade.com/pricing,SnapTrade,FREEMIUM,2026-11-22T02:16:46.392860Z
+1.0,PRODUCT,blueberrypediatrics.com,https://www.blueberrypediatrics.com/pricing,Blueberry Pediatrics,FREEMIUM,2026-11-22T02:16:46.460250Z
+1.0,PRODUCT,duffel.com,https://duffel.com/pricing,Duffel,PAID,2026-11-22T02:16:47.230026Z
+1.0,PRODUCT,rabbet.com,https://rabbet.com/developers/pricing,Rabbet,PAID,2026-11-22T02:16:48.093595Z
+1.0,PRODUCT,newsblur.com,https://www.newsblur.com/pricing,NewsBlur,PAID,2026-11-22T02:16:49.163745Z
+1.0,PRODUCT,exlyapp.com,https://exlyapp.com/pricing,Exly,PAID,2026-11-22T02:16:52.227241Z
+1.0,PRODUCT,elevatepay.co,https://www.elevatepay.co/card-pricing,Elevate (formerly Bloom),FREEMIUM,2026-11-22T02:16:54.033326Z
+1.0,PRODUCT,ophelia.com,https://ophelia.com/insurance-and-pricing,Ophelia,FREEMIUM,2026-11-22T02:16:54.736648Z
+1.0,PRODUCT,medmehealth.com,https://medmehealth.com/ca/pricing,MedMe Health,PAID,2026-11-22T02:16:55.206103Z
+1.0,PRODUCT,home.onetext.com,https://home.onetext.com/pricing,OneText,PAID,2026-11-22T02:16:55.216696Z
+1.0,PRODUCT,circuithub.com,https://www.circuithub.com/pricing,CircuitHub,ENTERPRISE,2026-11-22T02:16:57.311172Z
+1.0,PRODUCT,nunu.ai,https://nunu.ai/pricing,nunu.ai,FREEMIUM,2026-11-22T02:16:58.563398Z
+1.0,PRODUCT,buxfer.com,https://www.buxfer.com/pricing/,Buxfer,FREEMIUM,2026-11-22T02:17:00.445441Z
+1.0,PRODUCT,peakflo.co,https://peakflo.co/pricing,Peakflo,ENTERPRISE,2026-11-22T02:17:00.939935Z
+1.0,PRODUCT,soon.app,https://www.soon.app/pricing,Soon,PAID,2026-11-22T02:17:12.803112Z
+1.0,PRODUCT,scalarfield.io,https://scalarfield.io/pricing,Scalar Field,ENTERPRISE,2026-11-22T02:17:25.966189Z
+1.0,PRODUCT,emotenow.com,https://www.emotenow.com/pricing,Emote,ENTERPRISE,2026-11-22T02:17:28.384355Z
+1.0,PRODUCT,alaan.com,https://www.alaan.com/pricing,Alaan,FREEMIUM,2026-11-22T02:17:47.487215Z
+1.0,PRODUCT,phoenix.ca,https://www.phoenix.ca/pricing,Phoenix,PAID,2026-11-22T02:17:50.208339Z
+1.0,PRODUCT,herdr.dev,https://herdr.dev/pricing,herdr,FREE,2026-11-22T02:18:05.096555Z
+1.0,PRODUCT,getventa.ai,https://www.getventa.ai/pricing,Venta AI,PAID,2026-11-22T02:18:08.768749Z
+1.0,PRODUCT,entangl.com,https://www.entangl.com/pricing/,Entangl,ENTERPRISE,2026-11-22T02:18:14.424759Z
+1.0,PRODUCT,risklytics.com,https://www.risklytics.com/pricing/,Risklytics,FREE,2026-11-22T02:18:17.085859Z
+1.0,PRODUCT,ready.net,https://ready.net/pricing,Ready,ENTERPRISE,2026-11-22T02:18:29.554633Z
+1.0,PRODUCT,avo.app,https://www.avo.app/pricing,Avo,ENTERPRISE,2026-11-22T02:19:12.215273Z
+1.0,PRODUCT,panadata.net,https://www.panadata.net/es/plans,PANADATA,PAID,2026-11-22T02:19:30.402403Z
+1.0,PRODUCT,endla.com,https://endla.com/pricing,Endla,ENTERPRISE,2026-11-22T02:20:04.452569Z
+1.0,PRODUCT,pipekit.io,https://pipekit.io/pricing,Pipekit,ENTERPRISE,2026-11-22T02:20:15.013848Z
+1.0,PRODUCT,pervices.com,https://www.pervices.com/pricing/,Per Vices,PAID,2026-11-22T02:20:31.814484Z
+1.0,PRODUCT,pirros.com,https://www.pirros.com/pricing,Pirros,FREEMIUM,2026-11-22T02:20:34.690820Z
+1.0,PRODUCT,archive.elphinstone.us,https://archive.elphinstone.us/pricing/,Elphinstone,PAID,2026-11-22T02:20:49.674386Z
+1.0,PRODUCT,bynext.co,https://bynext.co/pricing/,Cleanly,PAID,2026-11-22T02:21:07.042458Z
+1.0,PRODUCT,joinforage.com,https://www.joinforage.com/pricing,Forage,PAID,2026-11-22T02:21:09.898284Z
+1.0,PRODUCT,harbera.com,https://harbera.com/pricing,Harbera,ENTERPRISE,2026-11-22T02:21:16.775332Z
+1.0,PRODUCT,briohr.com,https://briohr.com/pricing-plans-world-wide/,BrioHR,PAID,2026-11-22T02:21:21.252903Z
+1.0,PRODUCT,tryterracotta.com,https://tryterracotta.com/pricing/,Terracotta AI,ENTERPRISE,2026-11-22T02:22:10.884968Z
+1.0,PRODUCT,runconverge.com,https://www.runconverge.com/pricing,Converge,ENTERPRISE,2026-11-22T02:22:16.606617Z
+1.0,PRODUCT,pango.ai,https://pango.ai/pricing,Pango,ENTERPRISE,2026-11-22T02:22:19.655010Z
+1.0,PRODUCT,redouble.ai,https://redouble.ai/pricing,Redouble AI,ENTERPRISE,2026-11-22T02:22:28.936606Z
+1.0,PRODUCT,stardex.com,https://www.stardex.com/pricing,Stardex,PAID,2026-11-22T02:22:40.030176Z
+1.0,PRODUCT,siphoxhealth.com,https://siphoxhealth.com/pricing/easydraw-heart-and-metabolic-program,SiPhox Health,PAID,2026-11-22T02:23:12.502863Z
+1.0,PRODUCT,ryvn.ai,https://ryvn.ai/pricing,Ryvn,ENTERPRISE,2026-11-22T02:23:33.416390Z
+1.0,PRODUCT,vimmerse.net,https://www.vimmerse.net/pricing,Vimmerse,PAID,2026-11-22T02:23:42.698873Z
+1.0,PRODUCT,aegishealth.us,https://aegishealth.us/pricing,Aegis,PAID,2026-11-22T02:23:54.889111Z
+1.0,PRODUCT,ziina.com,https://ziina.com/personal/plans/violet,Ziina,FREEMIUM,2026-11-22T02:24:09.737821Z
+1.0,PRODUCT,usechamber.io,https://www.usechamber.io/pricing,Chamber,ENTERPRISE,2026-11-22T02:24:24.779665Z
+1.0,PRODUCT,meterfeeder.com,https://www.meterfeeder.com/pricing/pricing-3,Meter Feeder,PAID,2026-11-22T02:24:34.231171Z
+1.0,PRODUCT,s2.dev,https://s2.dev/pricing,s2.dev,PAID,2026-11-22T02:24:37.420199Z
+1.0,PRODUCT,lendflow.com,https://www.lendflow.com/pricing,Lendflow,ENTERPRISE,2026-11-22T02:24:40.873298Z
+1.0,PRODUCT,caution.co,https://caution.co/pricing.html,Caution,ENTERPRISE,2026-11-22T02:24:47.872957Z
+1.0,PRODUCT,resolvebim.com,https://www.resolvebim.com/pricing,Resolve,ENTERPRISE,2026-11-22T02:24:50.858155Z
+1.0,PRODUCT,workflow86.com,https://www.workflow86.com/pricing,Workflow86,FREEMIUM,2026-11-22T02:24:56.778364Z
+1.0,PRODUCT,tryresponse.com,https://www.tryresponse.com/pricing/,Response,PAID,2026-11-22T02:25:27.173017Z
+1.0,PRODUCT,curebase.ai,https://www.curebase.ai/pricing,Curebase,ENTERPRISE,2026-11-22T02:25:33.096447Z
+1.0,PRODUCT,instapainting.com,https://www.instapainting.com/pricing,Instapainting,PAID,2026-11-22T02:25:36.303317Z
+1.0,PRODUCT,vanta.com,https://www.vanta.com/pricing,Vanta,PAID,2026-11-22T02:25:39.463549Z
+1.0,PRODUCT,parahelp.com,https://parahelp.com/pricing,Parahelp,PAID,2026-11-22T02:26:02.531939Z
+1.0,PRODUCT,finflx.com,https://www.finflx.com/pricing-premium,FinFlx,FREEMIUM,2026-11-22T02:26:10.883909Z
+1.0,PRODUCT,coloop.ai,https://www.coloop.ai/pricing,CoLoop,ENTERPRISE,2026-11-22T02:26:20.520659Z
+1.0,PRODUCT,arpio.io,https://arpio.io/pricing/,Arpio,PAID,2026-11-22T02:26:29.113497Z
+1.0,PRODUCT,benchling.com,https://www.benchling.com/pricing,Benchling,ENTERPRISE,2026-11-22T02:26:40.833764Z
+1.0,PRODUCT,shadeform.com,https://shadeform.com/prices,Shadeform,FREE,2026-11-22T02:26:46.863180Z
+1.0,PRODUCT,luciq.ai,https://www.luciq.ai/pricing,Luciq (formerly Instabug),ENTERPRISE,2026-11-22T02:27:11.823630Z
+1.0,PRODUCT,codecrafters.io,https://codecrafters.io/pricing,CodeCrafters,FREEMIUM,2026-11-22T02:27:43.195484Z
+1.0,PRODUCT,surtrdefense.com,https://surtrdefense.com/pricing,Surtr Defense,ENTERPRISE,2026-11-22T02:28:00.105533Z
+1.0,PRODUCT,invertix.ai,https://www.invertix.ai/pricing,Invertix,ENTERPRISE,2026-11-22T02:29:03.621647Z
+1.0,PRODUCT,luminal.com,https://www.luminal.com/pricing,Luminal,PAID,2026-11-22T02:29:22.548129Z
+1.0,PRODUCT,hackerrank.com,https://www.hackerrank.com/work/pricing,HackerRank,ENTERPRISE,2026-11-22T02:29:54.817949Z
+1.0,PRODUCT,archform.com,https://www.archform.com/pricing,ArchForm,ENTERPRISE,2026-11-22T02:30:06.811214Z
+1.0,PRODUCT,escape.tech,https://escape.tech/pricing,Escape,ENTERPRISE,2026-11-22T02:30:32.651182Z
+1.0,PRODUCT,ilabservice.ai,https://www.ilabservice.ai/pricing,iLabService,ENTERPRISE,2026-11-22T02:30:39.467916Z
+1.0,PRODUCT,rescale.com,https://rescale.com/pricing/,Rescale,ENTERPRISE,2026-11-22T02:30:54.232050Z
+1.0,PRODUCT,pothlabs.com,https://pothlabs.com/pricing,Poth,FREEMIUM,2026-11-22T02:31:15.668097Z
+1.0,PRODUCT,hazelai.com,https://www.hazelai.com/who-we-serve/pricing-faqs,Hazel,ENTERPRISE,2026-11-22T02:31:22.145421Z
+1.0,PRODUCT,rebill.com,https://www.rebill.com/pricing,Rebill,PAID,2026-11-22T02:31:54.178318Z
+1.0,PRODUCT,kitekraft.de,https://www.kitekraft.de/pricing,Kitekraft,PAID,2026-11-22T02:32:08.951444Z
+1.0,PRODUCT,hoop.dev,https://hoop.dev/pricing,hoop.dev,ENTERPRISE,2026-11-22T02:32:12.311658Z
+1.0,PRODUCT,hockeystack.com,https://www.hockeystack.com/pricing,HockeyStack,ENTERPRISE,2026-11-22T02:32:15.032382Z
+1.0,PRODUCT,ncompass.tech,https://www.ncompass.tech/pricing,nCompass,ENTERPRISE,2026-11-22T02:32:24.201659Z
+1.0,PRODUCT,demodesk.ai,https://demodesk.ai/pricing,Demodesk,FREEMIUM,2026-11-22T02:32:37.271983Z
+1.0,PRODUCT,sero.so,https://www.sero.so/pricing,Sero,ENTERPRISE,2026-11-22T02:32:42.978570Z
+1.0,PRODUCT,relace.ai,https://relace.ai/pricing,Relace,PAID,2026-11-22T02:32:52.372404Z
+1.0,PRODUCT,finlens.app,https://www.finlens.app/accountants-pricing,Finlens,ENTERPRISE,2026-11-22T02:33:24.709092Z
+1.0,PRODUCT,cognitionip.com,https://www.cognitionip.com/pricing/,Cognition IP,ENTERPRISE,2026-11-22T02:33:30.709050Z
+1.0,PRODUCT,nodus-compute.ai,https://www.nodus-compute.ai/pricing/,Nodus Compute,PAID,2026-11-22T02:33:46.170702Z
+1.0,PRODUCT,keynua.com,https://www.keynua.com/plans/,Keynua,PAID,2026-11-22T02:34:01.327843Z
+1.0,PRODUCT,enhancedradar.com,https://enhancedradar.com/pricing,Enhanced Radar,PAID,2026-11-22T02:34:17.433789Z
+1.0,PRODUCT,notabene.id,https://notabene.id/pricing,Notabene,FREEMIUM,2026-11-22T02:34:43.834105Z
+1.0,PRODUCT,skypher.co,https://www.skypher.co/pricing,Skypher,ENTERPRISE,2026-11-22T02:34:46.404579Z
+1.0,PRODUCT,getaccept.com,https://www.getaccept.com/pricing,GetAccept,PAID,2026-11-22T02:34:56.683309Z
+1.0,PRODUCT,usedynamite.com,https://www.usedynamite.com/pricing,Dynamite,FREEMIUM,2026-11-22T02:35:10.715445Z
+1.0,PRODUCT,verdictmachine.com,https://verdictmachine.com/pricing,Verdict Machine,ENTERPRISE,2026-11-22T02:35:21.127689Z
+1.0,PRODUCT,runautomat.com,https://www.runautomat.com/pricing/,Automat,PAID,2026-11-22T02:35:24.283968Z
+1.0,PRODUCT,usetokenless.com,https://usetokenless.com/pricing,Tokenless,ENTERPRISE,2026-11-22T02:35:43.124791Z
+1.0,PRODUCT,rightnowai.co,https://www.rightnowai.co/pricing,RightNow,PAID,2026-11-22T02:35:46.758618Z
+1.0,PRODUCT,parsewise.ai,https://www.parsewise.ai/pricing,Parsewise,ENTERPRISE,2026-11-22T02:35:55.937311Z
+1.0,PRODUCT,probo.com,https://www.probo.com/pricing,Probo,FREEMIUM,2026-11-22T02:36:02.013619Z
+1.0,PRODUCT,bujeti.com,https://www.bujeti.com/pricing,Bujeti,PAID,2026-11-22T02:36:17.441781Z
+1.0,PRODUCT,shortkit.dev,https://www.shortkit.dev/pricing,shortkit,ENTERPRISE,2026-11-22T02:36:36.482585Z
+1.0,PRODUCT,subimage.io,https://www.subimage.io/pricing,Subimage,ENTERPRISE,2026-11-22T02:36:45.758376Z
+1.0,PRODUCT,lunabill.com,https://lunabill.com/pricing/,LunaBill,ENTERPRISE,2026-11-22T02:37:43.980043Z
+1.0,PRODUCT,fundos.vantedgeai.com,https://fundos.vantedgeai.com/pricing,VantedgeAI,ENTERPRISE,2026-11-22T02:37:46.754337Z
+1.0,PRODUCT,capveon.ai,https://capveon.ai/pricing,Capveon,FREEMIUM,2026-11-22T02:38:01.032805Z
+1.0,PRODUCT,pibit.ai,https://pibit.ai/rating-and-pricing,Pibit.ai,ENTERPRISE,2026-11-22T02:38:14.728628Z
+1.0,PRODUCT,stacktrace.ai,https://stacktrace.ai/pricing/,Stacktrace,FREEMIUM,2026-11-22T02:38:17.769783Z
+1.0,PRODUCT,unravelcarbon.com,https://www.unravelcarbon.com/plans,Unravel Carbon,ENTERPRISE,2026-11-22T02:38:20.805247Z
+1.0,PRODUCT,silurian.ai,https://silurian.ai/pricing,Silurian,ENTERPRISE,2026-11-22T02:38:36.967992Z
+1.0,PRODUCT,kilvin.ai,https://www.kilvin.ai/plans,Kilvin,ENTERPRISE,2026-11-22T02:38:39.912778Z
+1.0,PRODUCT,clipboard.com,https://www.clipboard.com/pricing,Clipboard,ENTERPRISE,2026-11-22T02:39:01.129972Z
+1.0,PRODUCT,karumi.ai,https://karumi.ai/pricing,Karumi,ENTERPRISE,2026-11-22T02:39:07.688111Z
+1.0,PRODUCT,clarm.com,https://clarm.com/pricing/,Clarm,ENTERPRISE,2026-11-22T02:39:10.181651Z
+1.0,PRODUCT,confidotech.com,https://www.confidotech.com/plans,Confido,ENTERPRISE,2026-11-22T02:39:38.246337Z
+1.0,PRODUCT,agentcollect.com,https://www.agentcollect.com/pricing,AgentCollect,ENTERPRISE,2026-11-22T02:40:01.288706Z
+1.0,PRODUCT,hypotenuse.ai,https://www.hypotenuse.ai/pricing,Hypotenuse AI,ENTERPRISE,2026-11-22T02:40:07.697451Z
+1.0,PRODUCT,app.routant.ai,https://app.routant.ai/pricing,Routant,ENTERPRISE,2026-11-22T02:40:17.931421Z
+1.0,PRODUCT,coveragecat.com,https://www.coveragecat.com/pricing,Coverage Cat,FREE,2026-11-22T02:40:22.724614Z
+1.0,PRODUCT,superglue.ai,https://superglue.ai/pricing/,superglue,ENTERPRISE,2026-11-22T02:40:31.372683Z
+1.0,PRODUCT,poliglota.org,https://www.poliglota.org/plans,Poliglota,PAID,2026-11-22T02:40:34.455053Z
+1.0,PRODUCT,stayflexi.com,https://stayflexi.com/pricing,Stayflexi,PAID,2026-11-22T02:40:38.248333Z
+1.0,PRODUCT,surebright.com,https://www.surebright.com/pricing,SureBright,FREE,2026-11-22T02:40:50.577032Z
+1.0,PRODUCT,characterquilt.com,https://www.characterquilt.com/pricing,CharacterQuilt,ENTERPRISE,2026-11-22T02:41:11.049709Z
+1.0,PRODUCT,inevent.com,https://inevent.com/en/pricing.php,InEvent,PAID,2026-11-22T02:41:14.778565Z
+1.0,PRODUCT,superorder.com,https://www.superorder.com/pricing,Superorder,ENTERPRISE,2026-11-22T02:41:29.771155Z
+1.0,PRODUCT,munify.ai,https://www.munify.ai/legal/munify-pricing,Munify,FREEMIUM,2026-11-22T02:41:38.407038Z
+1.0,PRODUCT,withoverheard.com,https://withoverheard.com/pricing,Overheard,ENTERPRISE,2026-11-22T02:41:41.858440Z
+1.0,PRODUCT,mindee.com,https://www.mindee.com/pricing,Mindee,FREEMIUM,2026-11-22T02:41:47.690032Z
+1.0,PRODUCT,cedalio.com,https://www.cedalio.com/pricing-en,Cedalio,PAID,2026-11-22T02:41:51.044593Z
+1.0,PRODUCT,hamming.ai,https://hamming.ai/pricing,Hamming AI,ENTERPRISE,2026-11-22T02:42:39.495958Z
+1.0,PRODUCT,hessian.sh,https://hessian.sh/pricing,Hessian,ENTERPRISE,2026-11-22T02:42:42.729209Z
+1.0,PRODUCT,oneleet.com,https://www.oneleet.com/pricing,Oneleet,ENTERPRISE,2026-11-22T02:42:58.626390Z
+1.0,PRODUCT,mem0.ai,https://mem0.ai/pricing,Mem0,FREEMIUM,2026-11-22T02:43:07.497840Z
+1.0,PRODUCT,photoroom.com,https://www.photoroom.com/api/pricing,Photoroom,FREEMIUM,2026-11-22T02:43:48.120020Z
+1.0,PRODUCT,getaftercare.com,https://www.getaftercare.com/pricing,Aftercare,ENTERPRISE,2026-11-22T02:44:15.145053Z
+1.0,PRODUCT,perceptronml.com,https://perceptronml.com/pricing,Perceptron ML,ENTERPRISE,2026-11-22T02:44:38.572024Z
+1.0,PRODUCT,mentraglass.com,https://mentraglass.com/pricing,Mentra,PAID,2026-11-22T02:44:44.293488Z
+1.0,PRODUCT,compresr.ai,https://compresr.ai/pricing,Compresr,ENTERPRISE,2026-11-22T02:44:55.100697Z
+1.0,PRODUCT,taxgpt.com,https://www.taxgpt.com/pricing,TaxGPT,ENTERPRISE,2026-11-22T02:45:04.279743Z
+1.0,PRODUCT,tamarind.bio,https://www.tamarind.bio/pricing,Tamarind Bio,FREEMIUM,2026-11-22T02:45:25.415817Z
+1.0,PRODUCT,weaveos.com,https://weaveos.com/pricing,Weave,ENTERPRISE,2026-11-22T02:45:28.493221Z
+1.0,PRODUCT,flatx.co,https://www.flatx.co/pricing,FlatX,PAID,2026-11-22T02:45:33.770089Z
+1.0,PRODUCT,startraven.com,https://startraven.com/pricing,Raven,ENTERPRISE,2026-11-22T02:45:49.143079Z
+1.0,PRODUCT,wallbit.io,https://wallbit.io/pricing,Wallbit,FREEMIUM,2026-11-22T02:45:54.932447Z
+1.0,PRODUCT,lizza.link,https://lizza.link/pricing,Lizza,FREEMIUM,2026-11-22T07:29:52.614746Z
+1.0,PRODUCT,floweq.com,https://www.floweq.com/pricing/pricing-overview,FlowEQ,ENTERPRISE,2026-11-22T07:29:55.675119Z
+1.0,PRODUCT,runrl.com,https://runrl.com/pricing,RunRL,ENTERPRISE,2026-11-22T07:29:55.781537Z
+1.0,PRODUCT,re2.ai,https://re2.ai/pricing,Resquared,ENTERPRISE,2026-11-22T07:29:58.829953Z
+1.0,PRODUCT,veratainsight.com,https://www.veratainsight.com/pricing,Verata,ENTERPRISE,2026-11-22T07:30:00.705301Z
+1.0,PRODUCT,embercopilot.ai,https://www.embercopilot.ai/pricing,Ember,ENTERPRISE,2026-11-22T07:30:03.610219Z
+1.0,PRODUCT,candoriq.com,https://www.candoriq.com/pricing,CandorIQ,ENTERPRISE,2026-11-22T07:30:08.176706Z
+1.0,PRODUCT,onelocal.com,https://www.onelocal.com/plans,OneLocal,ENTERPRISE,2026-11-22T07:30:09.464924Z
+1.0,PRODUCT,clerked.ai,https://clerked.ai/pricing/,Clerked,ENTERPRISE,2026-11-22T07:30:18.164674Z
+1.0,PRODUCT,withnixo.com,https://www.withnixo.com/pricing,Nixo,ENTERPRISE,2026-11-22T07:30:19.384192Z
+1.0,PRODUCT,volopay.com,https://www.volopay.com/pricing/,Volopay,ENTERPRISE,2026-11-22T07:30:21.400489Z
+1.0,PRODUCT,freshpaint.io,https://www.freshpaint.io/pricing,Freshpaint,ENTERPRISE,2026-11-22T07:30:21.658603Z
+1.0,PRODUCT,sakneen.com,https://www.sakneen.com/pricing/,Sakneen,ENTERPRISE,2026-11-22T07:30:24.949285Z
+1.0,PRODUCT,popl.co,https://popl.co/pages/pricing,Popl,ENTERPRISE,2026-11-22T07:30:30.375931Z
+1.0,PRODUCT,freyavoice.ai,https://www.freyavoice.ai/pricing,Freya,ENTERPRISE,2026-11-22T07:30:30.988773Z
+1.0,PRODUCT,useimagine.ai,https://useimagine.ai/pricing,Imagine AI,ENTERPRISE,2026-11-22T07:30:31.990709Z
+1.0,PRODUCT,onefin.in,https://www.onefin.in/post/rbi-s-interest-rate-draft-the-new-data-discipline-behind-nbfc-pricing,OneFin,ENTERPRISE,2026-11-22T07:30:37.961743Z
+1.0,PRODUCT,useclearline.com,https://www.useclearline.com/pricing,Clearline,ENTERPRISE,2026-11-22T07:30:42.419227Z
+1.0,PRODUCT,myworkpay.com,https://www.myworkpay.com/pricing,Workpay,ENTERPRISE,2026-11-22T07:30:49.983041Z
+1.0,PRODUCT,employer.gotlanded.com,https://employer.gotlanded.com/pricing,Landed,ENTERPRISE,2026-11-22T07:30:50.071836Z
+1.0,PRODUCT,glnkco.com,https://www.glnkco.com/pricing,G LNK,ENTERPRISE,2026-11-22T07:31:05.967246Z
+1.0,PRODUCT,kaelio.com,https://www.kaelio.com/pricing,Kaelio,FREEMIUM,2026-11-22T07:31:07.135707Z
+1.0,PRODUCT,joinsmartpath.com,https://www.joinsmartpath.com/pricing,SmartPath,ENTERPRISE,2026-11-22T07:31:09.199655Z
+1.0,PRODUCT,alokai.com,https://alokai.com/pricing,Alokai,ENTERPRISE,2026-11-22T07:31:09.364165Z
+1.0,PRODUCT,elayne.com,https://www.elayne.com/pricing,Elayne,FREEMIUM,2026-11-22T07:31:18.732964Z
+1.0,PRODUCT,artisan.co,https://www.artisan.co/pricing,Artisan,ENTERPRISE,2026-11-22T07:31:19.430571Z
+1.0,PRODUCT,useagave.com,https://useagave.com/pricing,Agave,ENTERPRISE,2026-11-22T07:31:22.527748Z
+1.0,PRODUCT,rex.inc,https://www.rex.inc/pricing,Rex,ENTERPRISE,2026-11-22T07:31:22.907728Z
+1.0,PRODUCT,m.io,https://www.m.io/pricing,Mio,ENTERPRISE,2026-11-22T07:31:23.979224Z
+1.0,PRODUCT,sweetspot.so,https://www.sweetspot.so/pricing/,Sweetspot,ENTERPRISE,2026-11-22T07:31:29.584672Z
+1.0,PRODUCT,albaorbital.com,https://www.albaorbital.com/unicorn-pricing,Alba Orbital,ENTERPRISE,2026-11-22T07:31:29.704722Z
+1.0,PRODUCT,ironcladapp.com,https://ironcladapp.com/pricing,Ironclad,ENTERPRISE,2026-11-22T07:31:30.135138Z
+1.0,PRODUCT,ebrandvalue.com,https://www.ebrandvalue.com/en/pricing/,eBrandvalue,ENTERPRISE,2026-11-22T07:31:31.293268Z
+1.0,PRODUCT,miden.co,https://www.miden.co/pricing,Miden,ENTERPRISE,2026-11-22T07:31:35.961226Z
+1.0,PRODUCT,inscribe.ai,https://www.inscribe.ai/pricing,Inscribe,ENTERPRISE,2026-11-22T07:31:40.189690Z
+1.0,PRODUCT,govdash.com,https://www.govdash.com/pricing,GovDash,ENTERPRISE,2026-11-22T07:31:45.460894Z
+1.0,PRODUCT,leeroo.com,https://leeroo.com/pricing,Leeroo,ENTERPRISE,2026-11-22T07:31:46.666133Z
+1.0,PRODUCT,moderntreasury.com,https://www.moderntreasury.com/pricing,Modern Treasury,ENTERPRISE,2026-11-22T07:31:55.504013Z
+1.0,PRODUCT,fazeshift.com,https://www.fazeshift.com/pricing,Fazeshift,ENTERPRISE,2026-11-22T07:32:02.961148Z
+1.0,PRODUCT,formance.com,https://www.formance.com/pricing,Formance,FREEMIUM,2026-11-22T07:32:05.635314Z
+1.0,PRODUCT,leena.ai,https://leena.ai/pricing,Leena AI,ENTERPRISE,2026-11-22T07:32:06.780094Z
+1.0,PRODUCT,durate.com,https://www.durate.com/pricing,Durate,ENTERPRISE,2026-11-22T07:32:07.993021Z
+1.0,PRODUCT,imt.care,https://www.imt.care/leadplus-pricing,IMT Care,PAID,2026-11-22T07:32:08.663723Z
+1.0,PRODUCT,drymerge.com,https://drymerge.com/pricing,DryMerge,ENTERPRISE,2026-11-22T07:32:09.390510Z
+1.0,PRODUCT,invertbio.com,https://invertbio.com/pricing,Invert,ENTERPRISE,2026-11-22T07:32:11.959563Z
+1.0,PRODUCT,breezlabs.com,https://www.breezlabs.com/pricing,Breez,ENTERPRISE,2026-11-22T07:32:12.172162Z
+1.0,PRODUCT,disclo.com,https://www.disclo.com/pricing,Disclo,ENTERPRISE,2026-11-22T07:32:13.602475Z
+1.0,PRODUCT,revenuecat.com,https://www.revenuecat.com/pricing,RevenueCat,FREEMIUM,2026-11-22T07:32:14.485152Z
